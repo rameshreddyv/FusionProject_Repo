@@ -1,1 +1,0 @@
-# Trunk_Journals
