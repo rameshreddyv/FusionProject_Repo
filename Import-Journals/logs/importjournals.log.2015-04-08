@@ -1,0 +1,49 @@
+[2015-04-08 11:07:00,875] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:07:00,875] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:07:00,875] INFO  com.gt.util.ConstructZipFile  - Failed constructing zip file,CSV File not found 
+[2015-04-08 11:07:31,843] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:07:31,858] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:07:31,858] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 11:08:37,577] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:08:37,577] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:08:37,577] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 11:09:28,912] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:09:28,912] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:09:28,912] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 11:09:51,957] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:09:51,972] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:09:51,972] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 11:12:22,981] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:12:22,981] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:12:22,981] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 11:14:03,030] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:14:03,030] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:14:03,046] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 11:14:12,817] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:14:12,817] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:14:12,817] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 11:18:38,335] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:18:38,351] INFO  com.gt.util.ConstructZipFile  - D:/importjournals/temp/ folder created
+[2015-04-08 11:18:38,351] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:18:38,351] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 11:18:38,351] INFO  com.gt.util.Test  - D:/importjournals/archives/ folder created
+[2015-04-08 11:26:40,710] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:26:40,710] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:26:40,710] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 11:27:03,196] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:27:03,196] INFO  com.gt.util.ConstructZipFile  - D:/importjournals/temp/ folder created
+[2015-04-08 11:27:03,196] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:27:03,196] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 11:55:50,328] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 11:55:50,343] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 11:55:50,343] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 12:03:25,962] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 12:03:25,962] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 12:03:25,978] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 12:04:08,997] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 12:04:08,997] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 12:04:09,013] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 12:04:25,619] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-08 12:04:25,619] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: CurrentJournals20150408.csv
+[2015-04-08 12:04:25,619] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-08 12:04:25,619] INFO  com.gt.util.Test  - D:/importjournals/archives/ folder created

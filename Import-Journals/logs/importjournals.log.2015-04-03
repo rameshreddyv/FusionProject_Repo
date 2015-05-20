@@ -1,0 +1,103 @@
+[2015-04-03 15:54:20,211] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-04-03 15:54:20,211] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-04-03 15:54:20,211] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-04-03 15:54:20,211] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 15:54:20,211] INFO  com.gt.util.ConstructZipFile  - Failed constructing zip file,CSV File not found 
+[2015-04-03 15:54:36,287] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-04-03 15:54:36,287] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-04-03 15:54:36,287] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-04-03 15:54:36,287] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 15:54:36,287] INFO  com.gt.util.ConstructZipFile  - Failed constructing zip file,CSV File not found 
+[2015-04-03 15:55:06,901] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 15:55:06,901] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 15:55:37,645] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 15:55:37,645] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 15:55:59,065] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 15:55:59,065] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 16:12:24,869] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 16:12:24,869] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 16:15:42,165] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 16:15:42,165] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 16:23:24,934] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-03 16:23:26,905] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-04-03 16:23:26,905] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 16:23:26,915] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 16:36:43,535] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-03 16:36:45,063] ERROR com.gt.util.MailSender  - Failed sending email IOException while sending message
+[2015-04-03 16:36:45,063] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 16:36:45,063] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 16:38:30,690] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-03 16:38:30,721] ERROR com.gt.util.MailSender  - Failed sending email Configuration not found for: job.status.emails.from
+[2015-04-03 16:38:30,721] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 16:38:30,737] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 16:39:04,527] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-03 16:39:06,062] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-04-03 16:39:06,072] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 16:39:06,072] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 17:31:02,590] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-03 17:31:04,459] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-04-03 17:31:04,459] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 17:31:04,478] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 17:32:38,069] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 17:32:38,085] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 17:33:30,292] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-04-03 17:33:30,292] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-04-03 17:33:30,308] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-03 17:33:35,006] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-04-03 17:33:35,054] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-04-03 17:33:42,616] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-04-03 17:33:47,261] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 40417
+[2015-04-03 17:33:47,261] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 40417
+[2015-04-03 17:33:48,357] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-04-03 17:33:48,357] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 40417 Wait time = 300000
+[2015-04-03 17:38:49,897] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-04-03 17:38:49,897] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-04-03 17:38:49,897] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-03 17:38:51,779] INFO  com.gt.service.FusionServiceStub  - Job code : 40417 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@7e3f6]
+[2015-04-03 17:38:51,779] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-04-03 17:38:51,779] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =40417.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-04-03 17:38:51,848] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Import Journals : Job $requestId execution status is $essStatus, details and log files attached
+[2015-04-03 17:38:51,848] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Import Journals : Job 40417 execution status is SUCCEEDED, details and log files attached
+[2015-04-03 17:38:51,848] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Import Journals Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-04-03 17:38:51,848] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Import Journals Job with request Id 40417 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 40417.zip 
+ Title = Current Journals  Import
+[2015-04-03 17:38:51,864] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-03 17:38:52,954] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-04-03 17:38:52,954] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-04-03 17:38:54,163] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 40421
+[2015-04-03 17:38:54,163] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 40421
+[2015-04-03 17:38:54,762] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-04-03 17:38:54,762] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 40421 Wait time = 300000
+[2015-04-03 17:43:58,515] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-04-03 17:43:58,515] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-04-03 17:43:58,515] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-03 17:43:59,582] INFO  com.gt.service.FusionServiceStub  - Job code : 40421 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1f676f6]
+[2015-04-03 17:43:59,582] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-04-03 17:43:59,582] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =40421.zip
+fileName =null
+title =ESS_L_40421
+
+[2015-04-03 17:43:59,582] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Import Journals : Job $requestId execution status is $essStatus, details and log files attached
+[2015-04-03 17:43:59,582] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Import Journals : Job 40421 execution status is SUCCEEDED, details and log files attached
+[2015-04-03 17:43:59,582] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Import Journals Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-04-03 17:43:59,582] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Import Journals Job with request Id 40421 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 40421.zip 
+ Title = ESS_L_40421
+[2015-04-03 17:43:59,582] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-03 17:44:00,441] INFO  com.gt.util.MailSender  - Mail sent successfully!

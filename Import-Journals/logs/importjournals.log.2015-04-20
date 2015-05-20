@@ -1,0 +1,25 @@
+[2015-04-20 16:31:19,828] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:31:24,127] ERROR com.gt.util.MailSender  - Failed sending email 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ef3sm17806334pbc.26 - gsmtp
+
+[2015-04-20 16:34:28,513] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:34:32,185] ERROR com.gt.util.MailSender  - Failed sending email 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 sm7sm17960827pac.45 - gsmtp
+
+[2015-04-20 16:35:16,839] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:41:32,153] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:45:16,552] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:46:54,550] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:47:19,311] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:47:23,887] ERROR com.gt.util.MailSender  - Failed sending email IOException while sending message
+[2015-04-20 16:47:38,750] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:47:44,353] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-04-20 16:48:07,627] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:48:13,592] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-04-20 16:48:40,118] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:48:45,700] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-04-20 16:51:14,950] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:51:20,860] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-04-20 16:52:05,898] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-04-20 16:52:11,573] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-04-20 16:55:17,078] ERROR com.gt.util.MailSender  - Failed sending email Could not connect to SMTP host: smtp.gmail.com, port: 465, response: -1

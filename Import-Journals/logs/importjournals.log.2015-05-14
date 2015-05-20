@@ -1,0 +1,1716 @@
+[2015-05-14 14:56:38,137] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 14:56:59,939] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:01:23,304] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:01:23,304] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:01:23,304] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:01:23,304] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:01:23,304] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:01:23,304] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:01:23,304] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:01:23,304] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:01:23,304] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:01:25,317] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:01:25,317] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:01:25,317] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:01:25,317] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:01:25,317] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:01:25,317] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:01:25,317] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:01:25,317] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:01:25,317] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:01:25,317] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:02:20,556] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:20,556] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:02:20,556] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:20,556] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:20,556] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:02:20,556] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:20,556] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:20,556] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (10).csv
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (12).csv
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (11).csv
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:20,572] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:20,588] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:22,570] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:22,570] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (13).csv
+[2015-05-14 15:02:22,570] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:22,570] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:22,570] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (14).csv
+[2015-05-14 15:02:22,570] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (15).csv
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (18).csv
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (16).csv
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (17).csv
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (19).csv
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:22,585] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:22,602] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:22,602] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (2).csv
+[2015-05-14 15:02:22,602] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:24,583] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:24,583] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (20).csv
+[2015-05-14 15:02:24,583] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:24,583] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:24,583] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (21).csv
+[2015-05-14 15:02:24,583] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:24,599] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:24,599] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (22).csv
+[2015-05-14 15:02:24,599] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:24,599] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (25).csv
+[2015-05-14 15:02:24,599] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:24,599] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:24,599] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:24,599] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (24).csv
+[2015-05-14 15:02:24,615] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:24,631] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (23).csv
+[2015-05-14 15:02:24,631] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:24,646] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:24,646] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (26).csv
+[2015-05-14 15:02:24,646] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:24,662] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:24,662] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:24,662] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (27).csv
+[2015-05-14 15:02:24,662] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:26,587] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:26,587] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (28).csv
+[2015-05-14 15:02:26,587] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:26,587] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (29).csv
+[2015-05-14 15:02:26,587] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:26,587] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:26,618] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:26,618] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (3).csv
+[2015-05-14 15:02:26,619] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:26,635] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:26,635] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (30).csv
+[2015-05-14 15:02:26,635] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:26,650] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:26,650] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (31).csv
+[2015-05-14 15:02:26,650] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:26,650] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:26,650] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (32).csv
+[2015-05-14 15:02:26,650] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:26,666] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:26,666] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (33).csv
+[2015-05-14 15:02:26,666] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:26,666] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:26,666] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (34).csv
+[2015-05-14 15:02:26,666] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:28,600] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:28,600] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (36).csv
+[2015-05-14 15:02:28,600] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:28,600] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:28,600] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (35).csv
+[2015-05-14 15:02:28,600] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:28,631] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:28,631] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (37).csv
+[2015-05-14 15:02:28,632] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:28,648] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:28,648] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (38).csv
+[2015-05-14 15:02:28,648] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:28,664] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:28,664] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (39).csv
+[2015-05-14 15:02:28,664] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:28,664] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:28,664] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (4).csv
+[2015-05-14 15:02:28,664] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:28,679] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:28,679] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (5).csv
+[2015-05-14 15:02:28,679] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:28,695] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:28,695] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (6).csv
+[2015-05-14 15:02:28,695] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:30,614] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:30,614] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (7).csv
+[2015-05-14 15:02:30,614] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:30,614] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:30,614] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (8).csv
+[2015-05-14 15:02:30,614] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:30,645] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:30,645] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (9).csv
+[2015-05-14 15:02:30,646] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:30,661] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:30,661] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy.csv
+[2015-05-14 15:02:30,677] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:02:30,677] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:02:30,693] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:30,693] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:02:30,693] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (11).csv
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:22,029] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:03:22,045] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:22,045] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:22,045] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:03:22,045] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:22,045] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:22,045] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (10).csv
+[2015-05-14 15:03:22,045] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:22,045] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:22,045] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (12).csv
+[2015-05-14 15:03:22,045] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (13).csv
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (14).csv
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (15).csv
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (16).csv
+[2015-05-14 15:03:24,043] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (17).csv
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (18).csv
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (19).csv
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (2).csv
+[2015-05-14 15:03:24,058] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (20).csv
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (21).csv
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (22).csv
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (23).csv
+[2015-05-14 15:03:26,056] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:26,072] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:26,072] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:26,072] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (24).csv
+[2015-05-14 15:03:26,137] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:26,138] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (25).csv
+[2015-05-14 15:03:26,140] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:26,140] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:26,141] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (26).csv
+[2015-05-14 15:03:26,143] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:26,143] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:26,144] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (27).csv
+[2015-05-14 15:03:26,147] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (28).csv
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (29).csv
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (3).csv
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (30).csv
+[2015-05-14 15:03:28,068] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:28,147] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:28,147] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (31).csv
+[2015-05-14 15:03:28,147] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:28,147] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:28,147] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (33).csv
+[2015-05-14 15:03:28,147] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:28,147] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:28,147] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (32).csv
+[2015-05-14 15:03:28,147] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:28,163] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:28,163] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (34).csv
+[2015-05-14 15:03:28,163] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (35).csv
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (36).csv
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (37).csv
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (38).csv
+[2015-05-14 15:03:30,082] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:30,161] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:30,161] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (39).csv
+[2015-05-14 15:03:30,161] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:30,161] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:30,161] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (4).csv
+[2015-05-14 15:03:30,161] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:30,176] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:30,176] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (5).csv
+[2015-05-14 15:03:30,176] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:30,176] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:30,176] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (6).csv
+[2015-05-14 15:03:30,176] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (7).csv
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (8).csv
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (9).csv
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy.csv
+[2015-05-14 15:03:32,095] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:32,174] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:03:32,174] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:03:32,174] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:03:32,174] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:03,413] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:04:03,429] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:05,427] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:05,427] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:05,427] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (10).csv
+[2015-05-14 15:04:05,427] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:04:05,427] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:05,427] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (11).csv
+[2015-05-14 15:04:05,427] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:05,427] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:05,427] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:05,442] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:05,442] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (12).csv
+[2015-05-14 15:04:05,442] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:07,429] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:07,429] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (13).csv
+[2015-05-14 15:04:07,429] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:07,429] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:07,429] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (14).csv
+[2015-05-14 15:04:07,429] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:07,429] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:07,429] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (15).csv
+[2015-05-14 15:04:07,429] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:07,444] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:07,444] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (16).csv
+[2015-05-14 15:04:07,444] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:09,442] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:09,442] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (17).csv
+[2015-05-14 15:04:09,442] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:09,442] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:09,442] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (19).csv
+[2015-05-14 15:04:09,442] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:09,442] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:09,442] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (18).csv
+[2015-05-14 15:04:09,442] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:09,458] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:09,458] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (2).csv
+[2015-05-14 15:04:09,458] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:11,455] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:11,455] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (20).csv
+[2015-05-14 15:04:11,455] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:11,455] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:11,455] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:11,455] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (21).csv
+[2015-05-14 15:04:11,455] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (22).csv
+[2015-05-14 15:04:11,455] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:11,455] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:11,471] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:11,471] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (23).csv
+[2015-05-14 15:04:11,471] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:13,469] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:13,469] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:13,469] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (24).csv
+[2015-05-14 15:04:13,469] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (26).csv
+[2015-05-14 15:04:13,469] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:13,469] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:13,469] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:13,469] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (25).csv
+[2015-05-14 15:04:13,469] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:13,484] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:13,484] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (27).csv
+[2015-05-14 15:04:13,484] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:15,482] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:15,482] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (28).csv
+[2015-05-14 15:04:15,482] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:15,482] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:15,482] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (29).csv
+[2015-05-14 15:04:15,482] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:15,482] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:15,482] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (3).csv
+[2015-05-14 15:04:15,482] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:15,498] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:15,498] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (30).csv
+[2015-05-14 15:04:15,498] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:17,496] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:17,496] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:17,496] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:17,511] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:17,511] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (34).csv
+[2015-05-14 15:04:17,511] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:17,511] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (31).csv
+[2015-05-14 15:04:17,511] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (33).csv
+[2015-05-14 15:04:17,511] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (32).csv
+[2015-05-14 15:04:17,511] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:17,511] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:17,511] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (35).csv
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (36).csv
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (37).csv
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (38).csv
+[2015-05-14 15:04:19,525] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (39).csv
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (5).csv
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (4).csv
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (6).csv
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:21,538] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (7).csv
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (8).csv
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (9).csv
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy.csv
+[2015-05-14 15:04:23,551] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:25,565] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:25,565] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:04:25,565] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:25,565] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:04:54,419] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:54,419] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:04:54,419] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:54,419] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:54,419] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:04:54,419] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:54,419] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:54,419] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (10).csv
+[2015-05-14 15:04:54,419] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:54,419] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (12).csv
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (14).csv
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:54,435] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:04:54,450] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:54,451] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (11).csv
+[2015-05-14 15:04:54,451] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:54,451] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:54,451] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:54,451] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (13).csv
+[2015-05-14 15:04:54,451] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:56,420] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:56,420] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (15).csv
+[2015-05-14 15:04:56,420] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:56,420] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:56,420] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (16).csv
+[2015-05-14 15:04:56,420] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:56,420] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:56,420] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (17).csv
+[2015-05-14 15:04:56,420] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:56,436] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:56,436] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (18).csv
+[2015-05-14 15:04:56,436] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:56,436] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:56,436] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (19).csv
+[2015-05-14 15:04:56,436] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:56,436] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:56,436] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (2).csv
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (20).csv
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (22).csv
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (21).csv
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (23).csv
+[2015-05-14 15:04:56,452] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:58,433] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:58,433] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (24).csv
+[2015-05-14 15:04:58,433] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:58,433] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:58,433] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (25).csv
+[2015-05-14 15:04:58,433] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:58,433] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:58,433] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (26).csv
+[2015-05-14 15:04:58,433] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:58,449] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:58,449] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (27).csv
+[2015-05-14 15:04:58,449] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:58,449] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:58,449] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (28).csv
+[2015-05-14 15:04:58,449] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (29).csv
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (3).csv
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (30).csv
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:58,481] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (31).csv
+[2015-05-14 15:04:58,497] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:04:58,497] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:04:58,497] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (32).csv
+[2015-05-14 15:04:58,497] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:00,447] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:00,447] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (33).csv
+[2015-05-14 15:05:00,447] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:00,447] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:00,447] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (34).csv
+[2015-05-14 15:05:00,447] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:00,447] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:00,447] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (35).csv
+[2015-05-14 15:05:00,447] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:00,462] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:00,462] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (36).csv
+[2015-05-14 15:05:00,462] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:00,462] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:00,462] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (37).csv
+[2015-05-14 15:05:00,462] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:00,495] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:00,495] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (38).csv
+[2015-05-14 15:05:00,495] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:00,495] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:00,495] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (39).csv
+[2015-05-14 15:05:00,495] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:00,495] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:00,495] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (4).csv
+[2015-05-14 15:05:00,495] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:00,510] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:00,510] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (5).csv
+[2015-05-14 15:05:00,510] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:00,510] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:00,510] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (6).csv
+[2015-05-14 15:05:00,510] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:02,460] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:02,460] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (7).csv
+[2015-05-14 15:05:02,460] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:02,460] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:02,460] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (8).csv
+[2015-05-14 15:05:02,460] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:02,460] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:02,460] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (9).csv
+[2015-05-14 15:05:02,460] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:02,476] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:02,476] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:02,476] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy.csv
+[2015-05-14 15:05:02,476] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:05:02,476] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:02,476] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:02,476] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:05:33,561] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:33,561] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:05:33,561] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:33,561] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:33,561] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:05:33,561] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:35,575] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:35,575] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:05:35,575] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:35,575] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:35,575] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:05:35,575] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:37,588] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:37,588] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:05:37,588] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:37,588] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:37,588] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (10).csv
+[2015-05-14 15:05:37,588] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:39,601] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:39,601] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:39,601] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (11).csv
+[2015-05-14 15:05:39,601] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (12).csv
+[2015-05-14 15:05:39,601] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:39,601] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:41,617] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:41,617] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:41,617] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (13).csv
+[2015-05-14 15:05:41,617] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:41,617] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (14).csv
+[2015-05-14 15:05:41,617] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:43,630] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:43,630] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:43,630] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (15).csv
+[2015-05-14 15:05:43,630] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (16).csv
+[2015-05-14 15:05:43,630] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:43,630] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:45,644] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:45,644] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (17).csv
+[2015-05-14 15:05:45,644] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:45,644] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:45,644] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (18).csv
+[2015-05-14 15:05:45,644] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:47,657] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:47,657] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (19).csv
+[2015-05-14 15:05:47,657] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:47,657] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:47,657] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (2).csv
+[2015-05-14 15:05:47,657] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:49,670] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:49,670] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (20).csv
+[2015-05-14 15:05:49,670] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:49,670] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:49,670] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (21).csv
+[2015-05-14 15:05:49,670] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:51,683] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:51,683] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:51,683] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (22).csv
+[2015-05-14 15:05:51,683] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (23).csv
+[2015-05-14 15:05:51,683] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:51,683] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:53,697] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:53,697] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (24).csv
+[2015-05-14 15:05:53,697] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:53,728] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:53,728] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (25).csv
+[2015-05-14 15:05:53,729] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:55,710] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:55,710] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (26).csv
+[2015-05-14 15:05:55,710] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:55,741] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:55,741] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (27).csv
+[2015-05-14 15:05:55,742] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:57,718] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:57,718] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (28).csv
+[2015-05-14 15:05:57,718] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:57,749] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:57,749] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (29).csv
+[2015-05-14 15:05:57,750] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:59,731] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:59,731] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (3).csv
+[2015-05-14 15:05:59,731] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:05:59,762] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:05:59,762] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (30).csv
+[2015-05-14 15:05:59,763] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:01,745] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:01,745] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (31).csv
+[2015-05-14 15:06:01,745] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:01,776] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:01,776] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (32).csv
+[2015-05-14 15:06:01,777] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:03,758] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:03,758] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (33).csv
+[2015-05-14 15:06:03,758] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:03,789] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:03,790] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (34).csv
+[2015-05-14 15:06:03,790] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:05,771] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:05,771] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (35).csv
+[2015-05-14 15:06:05,771] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:05,803] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:05,803] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (36).csv
+[2015-05-14 15:06:05,804] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:07,785] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:07,785] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (37).csv
+[2015-05-14 15:06:07,785] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:07,816] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:07,816] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (38).csv
+[2015-05-14 15:06:07,817] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:09,798] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:09,798] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (39).csv
+[2015-05-14 15:06:09,798] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:09,829] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:09,829] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (4).csv
+[2015-05-14 15:06:09,830] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:11,812] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:11,812] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (5).csv
+[2015-05-14 15:06:11,812] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:11,843] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:11,844] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (6).csv
+[2015-05-14 15:06:11,844] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:13,825] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:13,825] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (7).csv
+[2015-05-14 15:06:13,825] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:13,856] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:13,856] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (8).csv
+[2015-05-14 15:06:13,857] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:15,838] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:15,838] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (9).csv
+[2015-05-14 15:06:15,838] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:15,870] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:15,870] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy.csv
+[2015-05-14 15:06:15,871] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:17,853] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:17,853] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:06:17,853] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:17,853] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:06:44,332] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,332] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (22).csv
+[2015-05-14 15:06:44,332] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,332] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (20).csv
+[2015-05-14 15:06:44,332] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,332] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (19).csv
+[2015-05-14 15:06:44,332] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,332] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (17).csv
+[2015-05-14 15:06:44,332] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,332] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (15).csv
+[2015-05-14 15:06:44,348] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,348] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (13).csv
+[2015-05-14 15:06:44,348] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,348] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (11).csv
+[2015-05-14 15:06:44,348] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,363] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (14).csv
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (23).csv
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (21).csv
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (2).csv
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (18).csv
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (16).csv
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (12).csv
+[2015-05-14 15:06:44,364] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,380] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,316] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:44,380] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (10).csv
+[2015-05-14 15:06:44,380] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:44,380] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,330] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,330] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (24).csv
+[2015-05-14 15:06:46,330] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,330] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,330] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (25).csv
+[2015-05-14 15:06:46,330] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (26).csv
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (27).csv
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (28).csv
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (29).csv
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (3).csv
+[2015-05-14 15:06:46,345] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,361] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,362] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (30).csv
+[2015-05-14 15:06:46,362] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,362] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,362] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (31).csv
+[2015-05-14 15:06:46,362] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,362] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,362] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (32).csv
+[2015-05-14 15:06:46,362] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (35).csv
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (33).csv
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (37).csv
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (34).csv
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,378] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (39).csv
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (4).csv
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (36).csv
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (38).csv
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (5).csv
+[2015-05-14 15:06:46,393] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:46,409] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:46,409] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (6).csv
+[2015-05-14 15:06:46,409] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:48,343] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:48,343] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (7).csv
+[2015-05-14 15:06:48,343] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:48,343] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:48,343] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (8).csv
+[2015-05-14 15:06:48,343] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:48,359] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:48,359] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy (9).csv
+[2015-05-14 15:06:48,359] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:48,359] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:48,359] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429 - Copy.csv
+[2015-05-14 15:06:48,359] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:48,359] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:06:48,359] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:06:48,359] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:06:48,359] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:07:20,232] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:07:20,232] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:07:20,232] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:07:20,232] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:07:20,232] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:07:20,232] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:07:20,232] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:07:20,232] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:07:20,232] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:07:20,248] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:07:20,248] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:07:20,248] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:07:20,248] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:07:20,248] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:07:20,248] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:07:20,248] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:07:20,248] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:07:20,248] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:07:20,248] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:13:40,799] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:13:40,799] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:13:40,799] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:13:40,799] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:13:40,815] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:13:40,799] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:13:40,815] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:13:40,815] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:13:40,815] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:13:40,815] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:13:40,815] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:13:40,815] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:13:40,815] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:13:40,815] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:13:40,815] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:13:42,828] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:13:42,828] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:13:42,828] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:13:42,828] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:23:28,101] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:28,101] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:23:28,101] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:28,101] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:28,101] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:28,101] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:28,117] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:23:28,117] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:28,117] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:23:28,117] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:28,132] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:23:28,133] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:28,133] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:23:28,133] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:28,133] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:30,130] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:30,130] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:23:30,130] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:30,130] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:32,144] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:23:32,159] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:34,159] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:34,159] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:23:34,159] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:34,159] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:23:36,190] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:36,190] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:23:36,174] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:36,190] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:38,176] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:38,176] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:23:38,176] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:38,176] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:40,190] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:23:40,205] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:42,190] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:42,190] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:23:42,190] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:42,190] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:44,205] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:23:44,220] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:46,218] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:46,218] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:23:46,218] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:46,218] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:23:48,263] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:48,294] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CAATH_RV150429.csv
+[2015-05-14 15:23:48,294] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:48,263] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:48,435] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-14 15:23:48,450] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:48,263] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:48,513] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:48,528] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-14 15:23:48,528] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:48,513] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:48,528] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\COMTH_RV150429.csv
+[2015-05-14 15:23:48,528] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:48,528] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-14 15:23:48,545] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:50,308] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:23:50,308] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CVRTH_RV150429.csv
+[2015-05-14 15:23:50,308] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:23:50,308] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:32:51,901] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:32:51,901] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-14 15:32:51,901] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:32:51,901] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140332519013.zip
+[2015-05-14 15:32:51,901] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:32:51,901] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-14 15:32:51,901] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:32:51,901] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140332519011.zip
+[2015-05-14 15:32:51,922] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:32:51,921] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:32:51,923] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-14 15:32:51,924] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-14 15:32:51,925] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:32:51,925] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140332519252.zip
+[2015-05-14 15:32:51,925] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:32:51,925] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140332519254.zip
+[2015-05-14 15:32:51,921] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:32:51,925] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-14 15:32:51,925] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:32:51,925] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140332519250.zip
+[2015-05-14 15:32:53,906] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:32:53,906] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-14 15:32:53,906] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:32:53,906] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140332539065.zip
+[2015-05-14 15:32:53,906] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:38:30,404] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:38:30,404] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-14 15:38:30,404] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:38:30,404] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140338304044.zip
+[2015-05-14 15:38:30,404] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:38:30,404] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-14 15:38:30,404] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:38:30,404] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140338304042.zip
+[2015-05-14 15:38:30,420] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:38:30,420] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-14 15:38:30,420] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:38:30,420] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:38:30,420] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140338304200.zip
+[2015-05-14 15:38:30,420] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-14 15:38:30,420] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:38:30,420] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-14 15:38:30,420] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:38:30,420] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140338304201.zip
+[2015-05-14 15:38:30,420] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:38:30,420] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140338304203.zip
+[2015-05-14 15:38:32,418] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:38:32,418] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-14 15:38:32,418] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:38:32,418] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140338324185.zip
+[2015-05-14 15:38:32,418] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:40:20,312] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:40:20,312] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-14 15:40:20,312] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:40:20,312] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140340203121.zip
+[2015-05-14 15:40:20,312] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:40:20,312] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-14 15:40:20,312] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:40:20,312] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140340203123.zip
+[2015-05-14 15:40:20,328] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:40:20,328] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-14 15:40:20,328] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:40:20,328] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:40:20,328] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-14 15:40:20,328] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140340203280.zip
+[2015-05-14 15:40:20,328] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:40:20,328] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-14 15:40:20,328] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:40:20,328] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140340203284.zip
+[2015-05-14 15:40:20,328] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:40:20,328] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140340203282.zip
+[2015-05-14 15:40:22,326] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:40:22,326] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-14 15:40:22,326] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:40:22,326] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140340223265.zip
+[2015-05-14 15:40:22,326] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:45:07,521] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140345075212.zip
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:45:07,521] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140345075213.zip
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:45:07,521] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:45:07,536] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140345075214.zip
+[2015-05-14 15:45:07,536] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:45:07,536] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140345075211.zip
+[2015-05-14 15:45:07,536] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140345075360.zip
+[2015-05-14 15:45:09,534] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 15:45:09,534] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-14 15:45:09,534] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 15:45:09,534] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140345095345.zip
+[2015-05-14 15:45:09,534] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:12:17,912] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:12:17,912] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 16:12:21,237] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 16:12:22,236] INFO  com.gt.service.FusionServiceStub  - Job code : 41906 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-05-14 16:12:22,236] INFO  com.gt.service.FusionServiceStub  - 
+file name:41906.zip
+content typezip
+[2015-05-14 16:13:31,038] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:13:31,053] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 16:13:34,236] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 16:13:35,578] INFO  com.gt.service.FusionServiceStub  - Job code : 41906 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-05-14 16:13:35,578] INFO  com.gt.service.FusionServiceStub  - 
+file name:41906.zip
+content typezip
+[2015-05-14 16:13:35,578] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 16:13:35,578] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =41906.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 16:13:35,594] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 16:13:35,594] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 41906 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 16:13:35,594] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 16:13:35,594] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 41906 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 41906.zip 
+ Title = Current Journals  Import
+[2015-05-14 16:13:35,594] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 16:13:36,796] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 16:14:01,832] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:14:01,848] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 16:14:04,718] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 16:14:05,374] INFO  com.gt.service.FusionServiceStub  - Job code : 41906 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-05-14 16:14:05,374] INFO  com.gt.service.FusionServiceStub  - 
+file name:41906.zip
+content typezip
+[2015-05-14 16:14:05,374] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 16:14:05,374] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =41906.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 16:14:05,374] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 16:14:05,374] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 41906 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 16:14:05,374] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 16:14:05,374] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 41906 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 41906.zip 
+ Title = Current Journals  Import
+[2015-05-14 16:14:05,374] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 16:14:06,388] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 16:14:43,235] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:14:43,235] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 16:14:46,371] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 16:14:47,651] INFO  com.gt.service.FusionServiceStub  - Job code : 41906 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-05-14 16:14:47,651] INFO  com.gt.service.FusionServiceStub  - 
+file name:41906.zip
+content typezip
+[2015-05-14 16:14:47,651] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 16:14:47,651] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =41906.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 16:14:47,651] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 16:14:47,651] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 41906 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 16:14:47,651] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 16:14:47,651] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 41906 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 41906.zip 
+ Title = Current Journals  Import
+[2015-05-14 16:14:47,651] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 16:14:48,637] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 16:15:55,999] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:15:55,999] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 16:15:59,257] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 16:16:00,727] INFO  com.gt.service.FusionServiceStub  - Job code : 41906 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-05-14 16:16:00,727] INFO  com.gt.service.FusionServiceStub  - 
+file name:41906.zip
+content typezip
+[2015-05-14 16:18:31,219] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:18:31,219] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 16:18:34,307] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 16:18:35,200] INFO  com.gt.service.FusionServiceStub  - Job code : 41906 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-05-14 16:18:35,200] INFO  com.gt.service.FusionServiceStub  - 
+file name:41906.zip
+content typezip
+[2015-05-14 16:19:55,060] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:19:55,060] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 16:19:58,170] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 16:19:59,001] INFO  com.gt.service.FusionServiceStub  - Job code : 41906 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-05-14 16:19:59,001] INFO  com.gt.service.FusionServiceStub  - 
+file name:41906.zip
+content typezip
+[2015-05-14 16:19:59,001] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 16:19:59,017] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Journal Import Launcher (Import Journals - Part 2) : Primary Job Status is $parentStatus with Jobs code :$parentId, Child Job Status $childStatus with Jobs code :$childId
+[2015-05-14 16:28:11,310] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:28:39,605] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:29:28,446] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 16:47:15,893] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 17:03:08,617] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:03:08,617] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-14 17:03:08,617] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:03:08,617] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 17:03:08,649] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:03:08,649] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-14 17:03:08,649] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:03:08,649] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 17:03:11,493] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-14 17:03:11,493] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-14 17:03:11,493] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-14 17:03:11,493] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-14 17:03:15,973] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-14 17:03:15,973] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-14 17:03:16,724] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42174
+[2015-05-14 17:03:16,724] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42174
+[2015-05-14 17:03:16,724] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42175
+[2015-05-14 17:03:16,724] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42175
+[2015-05-14 17:03:17,254] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:03:17,254] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42175 Wait time = 60000
+[2015-05-14 17:03:17,473] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:03:17,473] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42174 Wait time = 60000
+[2015-05-14 17:04:18,710] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:04:18,710] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:04:18,710] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:04:18,710] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:04:18,710] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:04:18,710] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:04:19,366] INFO  com.gt.service.FusionServiceStub  - Job code : 42174 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@14561fc]
+[2015-05-14 17:04:19,366] INFO  com.gt.service.FusionServiceStub  - 
+file name:42174.zip
+content typezip
+[2015-05-14 17:04:19,366] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 17:04:19,366] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42174.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 17:04:19,381] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 17:04:19,381] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42174 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 17:04:19,381] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 17:04:19,381] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42174 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42174.zip 
+ Title = Current Journals  Import
+[2015-05-14 17:04:19,381] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 17:04:19,397] INFO  com.gt.service.FusionServiceStub  - Job code : 42175 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1b5c93f]
+[2015-05-14 17:04:19,397] INFO  com.gt.service.FusionServiceStub  - 
+file name:42175.zip
+content typezip
+[2015-05-14 17:04:19,397] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 17:04:19,397] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42175.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 17:04:19,413] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 17:04:19,413] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42175 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 17:04:19,413] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 17:04:19,413] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42175 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42175.zip 
+ Title = Current Journals  Import
+[2015-05-14 17:04:19,413] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 17:04:20,473] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 17:04:20,473] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-14 17:04:20,630] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 17:04:20,630] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-14 17:04:21,130] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42180
+[2015-05-14 17:04:21,130] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42180
+[2015-05-14 17:04:21,286] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42181
+[2015-05-14 17:04:21,286] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42181
+[2015-05-14 17:04:21,691] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:04:21,691] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42180 Wait time = 60000
+[2015-05-14 17:04:21,895] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:04:21,895] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42181 Wait time = 60000
+[2015-05-14 17:05:22,581] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:05:22,581] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:05:22,581] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:05:22,785] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:05:22,785] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:05:22,785] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:05:23,675] INFO  com.gt.service.FusionServiceStub  - Job code : 42181 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1f5d41f]
+[2015-05-14 17:05:23,675] INFO  com.gt.service.FusionServiceStub  - 
+file name:42181.zip
+content typezip
+[2015-05-14 17:05:23,675] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140505236750.zip
+[2015-05-14 17:05:23,707] INFO  com.gt.service.FusionServiceStub  - Job code : 42180 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@c5ed3e]
+[2015-05-14 17:05:23,707] INFO  com.gt.service.FusionServiceStub  - 
+file name:42180.zip
+content typezip
+[2015-05-14 17:05:23,707] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140505237071.zip
+[2015-05-14 17:05:23,707] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 17:09:32,359] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:09:32,359] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-14 17:09:32,359] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:09:32,359] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 17:09:32,374] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:09:32,453] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-14 17:09:32,453] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:09:32,453] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 17:09:35,388] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-14 17:09:35,388] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-14 17:09:35,388] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-14 17:09:35,420] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-14 17:09:39,447] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-14 17:09:39,447] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-14 17:09:41,024] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42182
+[2015-05-14 17:09:41,024] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42182
+[2015-05-14 17:09:41,259] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42183
+[2015-05-14 17:09:41,259] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42183
+[2015-05-14 17:09:41,602] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:09:41,602] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42182 Wait time = 60000
+[2015-05-14 17:09:41,867] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:09:41,867] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42183 Wait time = 60000
+[2015-05-14 17:10:42,508] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:10:42,508] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:10:42,508] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:10:42,789] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:10:42,789] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:10:42,789] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:10:43,601] INFO  com.gt.service.FusionServiceStub  - Job code : 42182 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@bcd8bf]
+[2015-05-14 17:10:43,601] INFO  com.gt.service.FusionServiceStub  - 
+file name:42182.zip
+content typezip
+[2015-05-14 17:10:43,601] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 17:10:43,601] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42182.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 17:10:43,601] INFO  com.gt.service.FusionServiceStub  - Job code : 42183 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1771a07]
+[2015-05-14 17:10:43,601] INFO  com.gt.service.FusionServiceStub  - 
+file name:42183.zip
+content typezip
+[2015-05-14 17:10:43,601] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 17:10:43,601] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42183.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 17:10:43,616] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 17:10:43,616] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42182 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 17:10:43,616] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 17:10:43,616] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42182 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42182.zip 
+ Title = Current Journals  Import
+[2015-05-14 17:10:43,616] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 17:10:43,633] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 17:10:43,633] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42183 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 17:10:43,633] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 17:10:43,633] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42183 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42183.zip 
+ Title = Current Journals  Import
+[2015-05-14 17:10:43,633] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 17:10:44,577] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 17:10:44,577] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-14 17:10:44,702] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 17:10:44,702] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-14 17:10:45,217] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42188
+[2015-05-14 17:10:45,217] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42188
+[2015-05-14 17:10:45,763] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:10:45,763] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42188 Wait time = 60000
+[2015-05-14 17:10:45,811] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42189
+[2015-05-14 17:10:45,811] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42189
+[2015-05-14 17:10:46,373] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:10:46,373] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42189 Wait time = 60000
+[2015-05-14 17:11:46,707] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:11:46,707] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:11:46,707] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:11:47,223] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:11:47,223] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:11:47,223] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:11:47,519] INFO  com.gt.service.FusionServiceStub  - Job code : 42188 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1cf1a94]
+[2015-05-14 17:11:47,519] INFO  com.gt.service.FusionServiceStub  - 
+file name:42188.zip
+content typezip
+[2015-05-14 17:11:47,519] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140511475191.zip
+[2015-05-14 17:11:47,925] INFO  com.gt.service.FusionServiceStub  - Job code : 42189 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@19f3c1d]
+[2015-05-14 17:11:47,925] INFO  com.gt.service.FusionServiceStub  - 
+file name:42189.zip
+content typezip
+[2015-05-14 17:11:47,925] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140511479250.zip
+[2015-05-14 17:11:47,925] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 17:14:38,342] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 17:15:05,421] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:15:05,421] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-14 17:15:05,421] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:15:05,421] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140515054211.zip
+[2015-05-14 17:15:05,421] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:15:05,421] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-14 17:15:05,421] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:15:05,421] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140515054210.zip
+[2015-05-14 17:15:05,421] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 17:15:52,640] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:15:52,640] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-14 17:15:52,640] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:15:52,640] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 17:15:52,671] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:15:52,671] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-14 17:15:52,672] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:15:52,672] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 17:15:55,324] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-14 17:15:55,324] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-14 17:15:55,356] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-14 17:15:55,356] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-14 17:15:59,985] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-14 17:15:59,995] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-14 17:16:01,145] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42191
+[2015-05-14 17:16:01,146] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42191
+[2015-05-14 17:16:01,146] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42190
+[2015-05-14 17:16:01,148] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42190
+[2015-05-14 17:16:01,736] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:16:01,736] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42190 Wait time = 60000
+[2015-05-14 17:16:01,736] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:16:01,736] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42191 Wait time = 60000
+[2015-05-14 17:17:04,045] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:17:04,045] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:17:04,045] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:17:04,061] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:17:04,061] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:17:04,061] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:17:04,686] INFO  com.gt.service.FusionServiceStub  - Job code : 42191 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1ef75df]
+[2015-05-14 17:17:04,686] INFO  com.gt.service.FusionServiceStub  - 
+file name:42191.zip
+content typezip
+[2015-05-14 17:17:04,686] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 17:17:04,686] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42191.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 17:17:04,701] INFO  com.gt.service.FusionServiceStub  - Job code : 42190 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1e17c27]
+[2015-05-14 17:17:04,701] INFO  com.gt.service.FusionServiceStub  - 
+file name:42190.zip
+content typezip
+[2015-05-14 17:17:04,701] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 17:17:04,701] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42190.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 17:17:04,717] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 17:17:04,717] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42190 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 17:17:04,717] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 17:17:04,717] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42190 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42190.zip 
+ Title = Current Journals  Import
+[2015-05-14 17:17:04,717] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 17:17:04,717] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 17:17:04,717] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42191 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 17:17:04,717] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 17:17:04,717] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42191 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42191.zip 
+ Title = Current Journals  Import
+[2015-05-14 17:17:04,717] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 17:17:05,731] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 17:17:05,731] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-14 17:17:05,794] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 17:17:05,794] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-14 17:17:06,512] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42196
+[2015-05-14 17:17:06,512] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42196
+[2015-05-14 17:17:06,512] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42197
+[2015-05-14 17:17:06,512] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42197
+[2015-05-14 17:17:07,027] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:17:07,027] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42196 Wait time = 60000
+[2015-05-14 17:17:07,042] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:17:07,042] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42197 Wait time = 60000
+[2015-05-14 17:18:07,860] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:18:07,860] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:18:07,860] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:18:08,017] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:18:08,017] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:18:08,017] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:18:08,657] INFO  com.gt.service.FusionServiceStub  - Job code : 42197 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@dddebb]
+[2015-05-14 17:18:08,657] INFO  com.gt.service.FusionServiceStub  - 
+file name:42197.zip
+content typezip
+[2015-05-14 17:18:08,657] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140518086570.zip
+[2015-05-14 17:18:08,782] INFO  com.gt.service.FusionServiceStub  - Job code : 42196 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@12fc7ff]
+[2015-05-14 17:18:08,782] INFO  com.gt.service.FusionServiceStub  - 
+file name:42196.zip
+content typezip
+[2015-05-14 17:18:08,782] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140518087821.zip
+[2015-05-14 17:18:08,797] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 17:22:17,075] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:22:17,075] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-14 17:22:17,075] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:22:17,075] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 17:22:17,153] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:22:17,153] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-14 17:22:17,153] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:22:17,153] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 17:22:19,773] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-14 17:22:19,773] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-14 17:22:19,804] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-14 17:22:19,804] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-14 17:22:24,426] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-14 17:22:24,426] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-14 17:22:25,113] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42198
+[2015-05-14 17:22:25,129] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42198
+[2015-05-14 17:22:25,144] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42199
+[2015-05-14 17:22:25,144] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42199
+[2015-05-14 17:22:26,176] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:22:26,176] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42198 Wait time = 60000
+[2015-05-14 17:22:26,270] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:22:26,270] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42199 Wait time = 60000
+[2015-05-14 17:23:27,053] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:23:27,053] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:23:27,053] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:23:27,148] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:23:27,148] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:23:27,148] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:23:27,711] INFO  com.gt.service.FusionServiceStub  - Job code : 42199 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1947af0]
+[2015-05-14 17:23:27,711] INFO  com.gt.service.FusionServiceStub  - 
+file name:42199.zip
+content typezip
+[2015-05-14 17:23:27,711] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 17:23:27,711] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42199.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 17:23:27,711] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 17:23:27,711] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42199 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 17:23:27,711] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 17:23:27,711] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42199 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42199.zip 
+ Title = Current Journals  Import
+[2015-05-14 17:23:27,711] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 17:23:27,727] INFO  com.gt.service.FusionServiceStub  - Job code : 42198 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@b7d5aa]
+[2015-05-14 17:23:27,727] INFO  com.gt.service.FusionServiceStub  - 
+file name:42198.zip
+content typezip
+[2015-05-14 17:23:27,727] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 17:23:27,727] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42198.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 17:23:27,727] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 17:23:27,727] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42198 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 17:23:27,727] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 17:23:27,727] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42198 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42198.zip 
+ Title = Current Journals  Import
+[2015-05-14 17:23:27,743] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 17:23:28,647] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 17:23:28,647] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-14 17:23:28,742] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 17:23:28,758] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-14 17:23:29,397] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42204
+[2015-05-14 17:23:29,397] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42204
+[2015-05-14 17:23:29,460] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42205
+[2015-05-14 17:23:29,460] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42205
+[2015-05-14 17:23:29,959] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:23:29,959] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42204 Wait time = 60000
+[2015-05-14 17:23:30,178] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:23:30,178] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42205 Wait time = 60000
+[2015-05-14 17:24:30,932] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:24:30,932] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:24:30,932] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:24:31,121] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:24:31,121] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:24:31,121] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:24:31,823] INFO  com.gt.service.FusionServiceStub  - Job code : 42204 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1b0388a]
+[2015-05-14 17:24:31,823] INFO  com.gt.service.FusionServiceStub  - 
+file name:42204.zip
+content typezip
+[2015-05-14 17:24:31,839] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140524318390.zip
+[2015-05-14 17:24:31,885] INFO  com.gt.service.FusionServiceStub  - Job code : 42205 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@aa8416]
+[2015-05-14 17:24:31,885] INFO  com.gt.service.FusionServiceStub  - 
+file name:42205.zip
+content typezip
+[2015-05-14 17:24:31,885] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140524318851.zip
+[2015-05-14 17:24:31,885] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-14 17:26:33,335] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:26:33,335] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-14 17:26:33,335] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:26:33,335] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 17:26:33,382] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-14 17:26:33,382] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-14 17:26:33,399] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-14 17:26:33,399] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-14 17:26:36,090] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-14 17:26:36,106] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-14 17:26:36,247] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-14 17:26:36,247] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-14 17:26:40,821] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-14 17:26:40,916] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-14 17:26:42,741] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42206
+[2015-05-14 17:26:42,741] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42206
+[2015-05-14 17:26:43,678] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42207
+[2015-05-14 17:26:43,678] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42207
+[2015-05-14 17:26:43,803] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:26:43,803] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42206 Wait time = 60000
+[2015-05-14 17:26:44,227] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:26:44,227] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42207 Wait time = 60000
+[2015-05-14 17:27:44,675] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:27:44,675] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:27:44,675] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:27:45,409] INFO  com.gt.service.FusionServiceStub  - Job code : 42206 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@12342f6]
+[2015-05-14 17:27:45,409] INFO  com.gt.service.FusionServiceStub  - 
+file name:42206.zip
+content typezip
+[2015-05-14 17:27:45,409] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 17:27:45,409] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42206.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 17:27:45,425] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 17:27:45,425] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42206 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 17:27:45,425] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 17:27:45,425] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42206 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42206.zip 
+ Title = Current Journals  Import
+[2015-05-14 17:27:45,425] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 17:27:46,205] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:27:46,205] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:27:46,205] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:27:46,424] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 17:27:46,424] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-14 17:27:46,752] INFO  com.gt.service.FusionServiceStub  - Job code : 42207 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1b6e63a]
+[2015-05-14 17:27:46,752] INFO  com.gt.service.FusionServiceStub  - 
+file name:42207.zip
+content typezip
+[2015-05-14 17:27:46,752] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-14 17:27:46,752] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42207.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-14 17:27:46,768] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-14 17:27:46,768] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42207 execution status is SUCCEEDED, details and log files attached
+[2015-05-14 17:27:46,768] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-14 17:27:46,768] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42207 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42207.zip 
+ Title = Current Journals  Import
+[2015-05-14 17:27:46,768] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-14 17:27:47,095] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42212
+[2015-05-14 17:27:47,095] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42212
+[2015-05-14 17:27:47,641] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:27:47,641] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42212 Wait time = 60000
+[2015-05-14 17:27:47,720] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-14 17:27:47,720] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-14 17:27:48,344] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42213
+[2015-05-14 17:27:48,344] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42213
+[2015-05-14 17:27:48,890] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-14 17:27:48,890] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42213 Wait time = 60000
+[2015-05-14 17:28:48,546] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:28:48,546] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:28:48,546] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:28:49,358] INFO  com.gt.service.FusionServiceStub  - Job code : 42212 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@d04d1c]
+[2015-05-14 17:28:49,358] INFO  com.gt.service.FusionServiceStub  - 
+file name:42212.zip
+content typezip
+[2015-05-14 17:28:49,358] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140528493580.zip
+[2015-05-14 17:28:49,719] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-14 17:28:49,719] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-14 17:28:49,719] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-14 17:28:50,796] INFO  com.gt.service.FusionServiceStub  - Job code : 42213 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5cf2ed]
+[2015-05-14 17:28:50,796] INFO  com.gt.service.FusionServiceStub  - 
+file name:42213.zip
+content typezip
+[2015-05-14 17:28:50,796] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505140528507961.zip
+[2015-05-14 17:28:50,796] INFO  com.gt.util.ConstructZipFile  - Finished all threads

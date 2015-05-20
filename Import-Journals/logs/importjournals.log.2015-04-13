@@ -1,0 +1,928 @@
+[2015-04-13 11:01:39,256] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 11:01:45,120] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 11:01:47,741] INFO  com.gt.service.FusionServiceStub  - Job code : 40874 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 11:01:47,741] INFO  com.gt.service.FusionServiceStub  - 
+file name:40874.zip
+content typezip
+[2015-04-13 11:02:54,903] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 11:02:57,773] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 11:02:58,929] INFO  com.gt.service.FusionServiceStub  - Job code : 40873 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 11:02:58,929] INFO  com.gt.service.FusionServiceStub  - 
+file name:40873.zip
+content typezip
+[2015-04-13 11:43:20,648] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 11:43:23,503] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 11:43:26,274] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 11:43:26,274] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 11:45:53,710] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 11:45:56,365] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 11:45:57,350] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 11:45:57,350] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 11:46:13,809] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 11:46:16,974] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 11:46:17,870] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 11:46:17,870] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 11:47:06,970] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 11:47:09,702] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 11:47:10,655] INFO  com.gt.service.FusionServiceStub  - Job code : 40881 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 11:47:10,655] INFO  com.gt.service.FusionServiceStub  - 
+file name:40881.zip
+content typezip
+[2015-04-13 11:48:26,652] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 11:48:29,709] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 11:48:30,646] INFO  com.gt.service.FusionServiceStub  - Job code : 40881 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 11:48:30,646] INFO  com.gt.service.FusionServiceStub  - 
+file name:40881.zip
+content typezip
+[2015-04-13 12:01:53,975] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 12:01:56,846] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 12:01:59,904] INFO  com.gt.service.FusionServiceStub  - Job code : 40870 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 12:01:59,904] INFO  com.gt.service.FusionServiceStub  - 
+file name:40870.zip
+content typezip
+[2015-04-13 12:13:36,229] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 12:13:38,969] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 12:13:41,067] INFO  com.gt.service.FusionServiceStub  - Job code : 40877 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 12:13:41,067] INFO  com.gt.service.FusionServiceStub  - 
+file name:40877.zip
+content typezip
+[2015-04-13 12:27:09,827] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 12:27:12,604] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 12:27:14,664] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 12:27:14,664] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 12:28:31,458] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 12:28:34,328] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 12:28:35,281] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 12:28:35,281] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 13:08:02,271] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 13:08:05,238] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 13:08:07,625] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 13:08:07,625] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 13:08:47,677] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 13:08:52,045] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 13:08:53,248] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 13:08:53,248] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 13:09:52,406] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 13:09:55,378] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 13:09:56,392] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 13:09:56,392] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 13:12:30,803] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 13:12:33,475] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 13:12:35,165] INFO  com.gt.service.FusionServiceStub  - Job code : 40877 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 13:12:35,165] INFO  com.gt.service.FusionServiceStub  - 
+file name:40877.zip
+content typezip
+[2015-04-13 13:12:53,550] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 13:12:56,401] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 13:12:57,079] INFO  com.gt.service.FusionServiceStub  - Job code : 40869 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 13:12:57,080] INFO  com.gt.service.FusionServiceStub  - 
+file name:40869.zip
+content typezip
+[2015-04-13 13:13:20,912] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 13:13:25,093] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 13:13:26,112] INFO  com.gt.service.FusionServiceStub  - Job code : 40869 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 13:13:26,112] INFO  com.gt.service.FusionServiceStub  - 
+file name:40869.zip
+content typezip
+[2015-04-13 14:17:00,788] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:17:03,409] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:17:05,419] INFO  com.gt.service.FusionServiceStub  - Job code : 40785 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 14:17:05,419] INFO  com.gt.service.FusionServiceStub  - 
+file name:40785.zip
+content typezip
+[2015-04-13 14:17:58,038] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:18:01,345] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:18:02,220] INFO  com.gt.service.FusionServiceStub  - Job code : 40789 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 14:18:02,220] INFO  com.gt.service.FusionServiceStub  - 
+file name:40789.zip
+content typezip
+[2015-04-13 14:23:05,530] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:23:08,275] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:23:09,088] INFO  com.gt.service.FusionServiceStub  - Job code : 40869 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 14:23:09,088] INFO  com.gt.service.FusionServiceStub  - 
+file name:40869.zip
+content typezip
+[2015-04-13 14:23:24,074] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:23:26,835] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:23:27,538] INFO  com.gt.service.FusionServiceStub  - Job code : 40869 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 14:23:27,538] INFO  com.gt.service.FusionServiceStub  - 
+file name:40869.zip
+content typezip
+[2015-04-13 14:23:42,141] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:23:44,730] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:23:45,418] INFO  com.gt.service.FusionServiceStub  - Job code : 40869 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 14:23:45,418] INFO  com.gt.service.FusionServiceStub  - 
+file name:40869.zip
+content typezip
+[2015-04-13 14:24:08,408] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:24:11,138] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:24:11,935] INFO  com.gt.service.FusionServiceStub  - Job code : 40869 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 14:24:11,935] INFO  com.gt.service.FusionServiceStub  - 
+file name:40869.zip
+content typezip
+[2015-04-13 14:24:41,207] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:24:43,799] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:24:44,658] INFO  com.gt.service.FusionServiceStub  - Job code : 40873 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 14:24:44,658] INFO  com.gt.service.FusionServiceStub  - 
+file name:40873.zip
+content typezip
+[2015-04-13 14:26:59,336] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:27:02,357] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:27:03,546] INFO  com.gt.service.FusionServiceStub  - Job code : 40877 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 14:27:03,546] INFO  com.gt.service.FusionServiceStub  - 
+file name:40877.zip
+content typezip
+[2015-04-13 14:36:22,155] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:36:25,993] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:36:29,521] INFO  com.gt.service.FusionServiceStub  - Job code : 40785 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 14:36:29,521] INFO  com.gt.service.FusionServiceStub  - 
+file name:40785.zip
+content typezip
+[2015-04-13 14:49:05,766] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:49:08,480] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:49:10,431] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 14:49:10,431] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 14:56:00,832] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:56:24,182] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:56:26,865] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:56:28,348] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 14:56:28,348] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 14:57:58,362] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 14:58:01,888] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 14:58:03,324] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 14:58:03,324] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:07:13,717] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:07:16,245] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:07:18,274] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:07:18,274] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:08:23,095] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:08:25,731] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:08:26,668] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:08:26,668] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:11:16,552] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:11:19,315] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:11:20,782] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 15:11:20,782] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:24:03,189] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:24:06,980] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:24:09,838] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:24:09,838] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:25:24,719] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:25:28,255] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:25:29,662] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 15:25:29,662] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:26:14,849] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:26:18,283] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:26:19,438] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:26:19,438] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:27:30,805] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:27:34,740] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:27:36,214] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:27:36,214] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:28:20,318] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:28:23,845] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:28:24,923] INFO  com.gt.service.FusionServiceStub  - Job code : 40874 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 15:28:24,923] INFO  com.gt.service.FusionServiceStub  - 
+file name:40874.zip
+content typezip
+[2015-04-13 15:29:09,658] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:29:13,159] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:29:14,392] INFO  com.gt.service.FusionServiceStub  - Job code : 40874 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:29:14,392] INFO  com.gt.service.FusionServiceStub  - 
+file name:40874.zip
+content typezip
+[2015-04-13 15:35:27,174] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:35:31,199] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:35:35,958] INFO  com.gt.service.FusionServiceStub  - Job code : 40874 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:35:35,958] INFO  com.gt.service.FusionServiceStub  - 
+file name:40874.zip
+content typezip
+[2015-04-13 15:42:55,712] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:42:59,241] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:43:01,352] INFO  com.gt.service.FusionServiceStub  - Job code : 40874 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 15:43:01,352] INFO  com.gt.service.FusionServiceStub  - 
+file name:40874.zip
+content typezip
+[2015-04-13 15:47:00,805] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:47:03,925] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:47:07,701] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 15:47:07,701] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 15:47:45,830] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:47:49,247] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:47:50,169] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 15:47:50,169] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 15:48:43,820] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:48:47,879] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:48:49,587] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:48:49,587] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:51:21,352] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:51:25,673] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:51:28,657] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:51:28,657] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:53:14,430] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:53:18,116] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:53:20,191] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:53:20,191] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:54:54,478] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:54:59,178] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:55:00,645] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:55:00,645] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:56:40,930] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:56:43,927] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:56:45,894] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:56:45,894] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:58:03,201] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:58:06,040] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:58:07,993] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:58:07,993] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 15:59:16,687] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 15:59:21,354] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 15:59:22,821] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 15:59:22,821] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:00:00,547] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:00:05,265] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:00:07,917] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:00:07,917] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:01:52,679] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:01:55,972] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:01:57,440] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 16:01:57,440] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:02:38,744] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:02:42,847] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:02:43,769] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:02:43,769] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:05:07,786] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:05:12,125] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:05:13,657] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:05:13,657] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:05:37,401] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:05:40,413] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:05:42,791] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:05:42,791] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:11:17,116] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:11:19,825] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:11:22,043] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 16:11:22,043] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:13:02,158] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:13:04,952] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:13:05,922] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:13:05,922] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:13:32,827] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:13:36,478] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:13:38,727] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:13:38,727] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:14:28,114] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:14:31,392] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:14:32,313] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 16:14:32,313] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:14:45,518] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:14:49,655] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:14:50,496] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 16:14:50,496] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:15:36,202] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:15:42,832] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:15:43,925] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:15:43,925] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:16:19,444] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:16:25,402] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:16:26,292] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:16:26,292] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:16:52,666] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:16:58,806] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:16:59,805] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:16:59,805] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:17:41,396] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:17:47,934] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:17:48,934] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 16:17:48,934] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:19:40,935] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:19:47,301] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:19:48,409] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 16:19:48,409] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:20:27,697] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:20:33,819] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:20:35,271] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:20:35,271] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:21:03,626] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:21:07,886] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:21:09,326] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 16:21:09,326] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:23:20,411] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:23:25,951] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:23:27,794] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:23:27,794] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:23:42,544] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:23:50,729] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:23:51,636] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:23:51,636] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:24:49,406] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:24:55,763] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:24:56,903] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:24:56,903] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:25:25,649] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:25:31,200] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:25:32,106] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:25:32,106] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:26:15,376] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:26:22,006] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:26:23,090] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:26:23,090] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:27:34,431] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:27:40,006] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:27:41,052] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:27:41,052] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:29:00,436] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:29:06,908] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:29:07,845] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 16:29:07,845] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:29:32,170] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:29:39,949] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:29:40,870] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:29:40,870] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:31:12,349] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:31:20,572] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:31:22,398] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 16:31:22,398] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:32:00,794] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:32:06,659] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:32:07,565] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:32:07,565] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:32:42,697] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:32:49,097] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:32:50,077] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:32:50,077] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:33:36,901] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:33:41,815] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:33:43,468] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:33:43,468] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:34:57,047] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:35:04,448] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:35:05,603] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 16:35:05,603] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:48:32,970] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:48:39,787] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:48:41,878] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:48:41,878] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:49:03,969] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:49:09,808] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:49:10,757] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:49:10,757] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:49:36,053] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:49:41,866] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:49:42,850] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:49:42,850] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:49:56,128] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:50:00,418] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:50:01,292] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 16:50:01,292] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:50:56,000] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:51:01,429] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:51:02,912] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 16:51:02,912] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:51:53,897] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:52:00,031] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:52:00,921] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:52:00,921] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:54:17,576] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:54:22,756] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:54:23,856] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 16:54:23,856] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:55:34,299] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:55:39,250] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:55:40,249] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:55:40,249] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:56:29,287] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:56:36,307] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:56:37,166] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 16:56:37,166] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:58:06,969] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:58:12,226] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:58:13,257] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 16:58:13,257] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:59:12,715] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:59:20,039] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 16:59:21,569] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 16:59:21,569] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 16:59:54,412] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 16:59:59,515] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:00:00,346] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 17:00:00,346] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:00:20,700] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:00:26,675] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:00:28,080] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 17:00:28,080] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:04:54,293] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:05:01,189] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:05:02,289] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:05:02,289] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:05:48,295] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:06:10,000] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:06:28,936] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:06:34,948] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:06:36,041] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:06:36,041] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:08:36,535] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:08:42,485] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:08:43,787] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:08:43,787] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:09:37,278] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:09:42,426] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:09:43,925] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:09:43,940] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:10:45,832] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:10:52,192] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:10:54,175] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:10:54,175] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:11:18,637] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:11:24,582] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:11:25,769] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:11:25,769] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:11:56,868] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:12:03,686] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:12:05,153] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:12:05,153] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:12:54,168] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:13:00,308] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:13:01,183] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:13:01,183] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:13:51,758] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:13:57,031] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:13:58,046] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:13:58,046] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:14:24,589] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:14:31,499] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:14:32,358] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:14:32,358] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:16:11,495] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:16:19,742] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:16:20,850] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 17:16:20,850] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:17:34,672] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:17:40,678] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:17:41,677] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:17:41,677] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:19:18,911] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:19:24,258] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:19:25,241] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:19:25,241] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:20:09,015] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:20:14,007] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:20:15,599] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 17:20:15,599] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:21:35,346] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:21:40,311] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:21:43,386] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:21:43,386] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:22:01,463] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:22:07,706] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:22:08,596] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 17:22:08,596] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:22:16,101] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:22:21,670] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:22:22,544] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:22:22,544] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:22:22,560] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:22:23,200] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 17:22:23,200] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:23:05,751] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:23:15,960] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:23:17,006] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 17:23:17,006] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:23:40,426] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:23:47,649] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:23:48,586] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:23:48,586] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:24:56,234] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:25:04,164] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:25:05,152] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:25:05,152] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:25:23,082] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:25:29,697] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:25:30,774] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:25:30,774] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:25:30,790] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:25:31,415] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 17:25:31,415] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:26:35,321] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:26:41,530] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:26:42,545] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:26:42,545] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:26:42,545] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:26:43,185] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 17:26:43,185] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:27:20,803] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:27:29,289] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:27:30,211] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:27:30,211] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:27:30,226] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:27:32,254] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 17:27:32,254] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:27:57,156] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:28:03,099] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:28:04,379] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 17:28:04,379] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:28:04,412] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:28:05,145] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 17:28:05,145] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:28:23,047] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:28:29,848] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:28:30,801] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 17:28:30,801] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:28:30,801] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:28:31,503] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@18e8a9d]
+[2015-04-13 17:28:31,503] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:41:21,779] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:41:27,177] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:41:29,830] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:41:29,830] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:41:29,830] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:41:30,773] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 17:41:30,773] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:42:33,401] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:42:39,692] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:42:40,691] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:42:40,691] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:42:40,723] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:42:41,582] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 17:42:41,582] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:43:09,114] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:43:15,525] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:43:16,353] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:43:16,353] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:43:16,368] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:43:16,992] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 17:43:16,992] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:48:44,330] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:48:49,738] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:48:50,847] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 17:48:50,847] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:48:50,847] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:48:51,659] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@18e8a9d]
+[2015-04-13 17:48:51,659] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:49:26,507] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:49:33,183] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:49:34,058] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:49:34,058] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:49:34,058] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:49:34,807] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 17:49:34,807] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:53:29,534] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:53:36,074] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:53:38,259] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:53:38,259] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:53:38,274] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:53:39,180] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 17:53:39,180] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:54:54,822] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:55:01,593] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:55:02,592] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:55:02,592] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:55:02,592] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:55:03,436] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 17:55:03,436] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:57:54,173] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:58:00,450] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:58:01,465] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 17:58:01,465] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 17:58:01,481] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:58:02,324] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 17:58:02,324] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 17:58:31,326] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 17:58:38,364] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 17:58:39,239] INFO  com.gt.service.FusionServiceStub  - Job code : 40881 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 17:58:39,239] INFO  com.gt.service.FusionServiceStub  - 
+file name:40881.zip
+content typezip
+[2015-04-13 18:00:27,270] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 18:00:33,510] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:00:35,274] INFO  com.gt.service.FusionServiceStub  - Job code : 40873 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 18:00:35,274] INFO  com.gt.service.FusionServiceStub  - 
+file name:40873.zip
+content typezip
+[2015-04-13 18:00:35,274] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:00:37,671] INFO  com.gt.service.FusionServiceStub  - Job code : 40874 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 18:00:37,671] INFO  com.gt.service.FusionServiceStub  - 
+file name:40874.zip
+content typezip
+[2015-04-13 18:01:20,248] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 18:01:25,427] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:01:27,409] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 18:01:27,409] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 18:01:27,409] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:01:29,236] INFO  com.gt.service.FusionServiceStub  - Job code : 40881 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@18e8a9d]
+[2015-04-13 18:01:29,236] INFO  com.gt.service.FusionServiceStub  - 
+file name:40881.zip
+content typezip
+[2015-04-13 18:06:17,686] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 18:06:24,066] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:06:25,955] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 18:06:25,955] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 18:06:25,970] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:06:26,642] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 18:06:26,642] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 18:08:16,461] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 18:08:22,358] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:08:23,357] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 18:08:23,357] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 18:08:23,357] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:08:23,997] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 18:08:23,997] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 18:10:02,306] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 18:10:06,721] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:10:07,783] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 18:10:07,783] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 18:10:07,783] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:10:08,443] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 18:10:08,443] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 18:11:50,508] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 18:11:53,393] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:11:55,165] INFO  com.gt.service.FusionServiceStub  - Job code : 40704 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 18:11:55,165] INFO  com.gt.service.FusionServiceStub  - 
+file name:40704.zip
+content typezip
+[2015-04-13 18:11:55,181] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:11:55,861] INFO  com.gt.service.FusionServiceStub  - Job code : 40705 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 18:11:55,861] INFO  com.gt.service.FusionServiceStub  - 
+file name:40705.zip
+content typezip
+[2015-04-13 18:18:30,248] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 18:18:33,535] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:18:35,306] INFO  com.gt.service.FusionServiceStub  - Job code : 40873 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 18:18:35,306] INFO  com.gt.service.FusionServiceStub  - 
+file name:40873.zip
+content typezip
+[2015-04-13 18:18:35,321] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:18:36,167] INFO  com.gt.service.FusionServiceStub  - Job code : 40874 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-04-13 18:18:36,167] INFO  com.gt.service.FusionServiceStub  - 
+file name:40874.zip
+content typezip
+[2015-04-13 18:19:34,853] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 18:19:37,804] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:19:38,816] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-04-13 18:19:38,816] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 18:19:38,832] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:19:39,929] INFO  com.gt.service.FusionServiceStub  - Job code : 40881 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1204a1a]
+[2015-04-13 18:19:39,929] INFO  com.gt.service.FusionServiceStub  - 
+file name:40881.zip
+content typezip
+[2015-04-13 18:32:02,837] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-04-13 18:32:06,084] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:32:09,868] INFO  com.gt.service.FusionServiceStub  - Job code : 40880 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1799640]
+[2015-04-13 18:32:09,868] INFO  com.gt.service.FusionServiceStub  - 
+file name:40880.zip
+content typezip
+[2015-04-13 18:32:13,307] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-04-13 18:32:14,325] INFO  com.gt.service.FusionServiceStub  - Job code : 40881 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1f02ef2]
+[2015-04-13 18:32:14,325] INFO  com.gt.service.FusionServiceStub  - 
+file name:40881.zip
+content typezip

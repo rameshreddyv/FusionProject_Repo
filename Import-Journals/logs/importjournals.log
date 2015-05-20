@@ -1,0 +1,1065 @@
+[2015-05-18 13:32:38,457] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-18 13:33:30,585] INFO  com.gt.core.MultipleInit  - D:/inbound/temp/ folder created
+[2015-05-18 13:33:32,631] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 13:33:32,631] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 13:33:32,631] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 13:33:32,631] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 13:33:36,081] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 13:33:36,097] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 13:33:43,606] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 13:33:51,853] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42540
+[2015-05-18 13:33:51,853] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42540
+[2015-05-18 13:33:53,573] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 13:33:53,573] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42540 Wait time = 60000
+[2015-05-18 13:34:54,710] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: COMPLETED
+[2015-05-18 13:34:54,710] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42540 Wait time = 60000
+[2015-05-18 13:35:55,620] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 13:35:55,620] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 13:35:55,620] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 13:35:56,747] INFO  com.gt.service.FusionServiceStub  - Job code : 42540 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@13db59b]
+[2015-05-18 13:35:56,747] INFO  com.gt.service.FusionServiceStub  - 
+file name:42540.zip
+content typezip
+[2015-05-18 13:35:56,747] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 13:35:56,747] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42540.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 13:35:56,811] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 13:35:56,811] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42540 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 13:35:56,811] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 13:35:56,811] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42540 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42540.zip 
+ Title = Current Journals  Import
+[2015-05-18 13:35:56,811] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 13:35:57,825] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 13:35:57,825] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 13:35:58,969] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42543
+[2015-05-18 13:35:58,969] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42543
+[2015-05-18 13:36:00,392] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 13:36:00,392] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42543 Wait time = 60000
+[2015-05-18 13:37:02,110] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 13:37:02,110] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 13:37:02,110] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 13:37:03,413] INFO  com.gt.service.FusionServiceStub  - Job code : 42543 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@c2ef9]
+[2015-05-18 13:37:03,413] INFO  com.gt.service.FusionServiceStub  - 
+file name:42543.zip
+content typezip
+[2015-05-18 13:37:03,444] INFO  com.gt.util.WorkerThread  - D:/inbound/archives/ folder created
+[2015-05-18 13:37:03,444] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180137034290.zip
+[2015-05-18 13:37:03,444] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-18 13:50:44,463] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 13:50:47,319] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 13:50:49,399] INFO  com.gt.service.FusionServiceStub  - Job code : 42543 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-05-18 13:50:49,399] INFO  com.gt.service.FusionServiceStub  - 
+file name:42543.zip
+content typezip
+[2015-05-18 13:51:30,936] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 13:51:33,624] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 13:51:34,812] INFO  com.gt.service.FusionServiceStub  - Job code : 42543 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-05-18 13:51:34,812] INFO  com.gt.service.FusionServiceStub  - 
+file name:42543.zip
+content typezip
+[2015-05-18 13:51:34,812] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 13:51:34,812] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42543.zip
+fileName =null
+title =ESS_L_42543
+
+[2015-05-18 13:51:34,828] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 13:51:34,828] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42543 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 13:51:34,828] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 13:51:34,828] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42543 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42543.zip 
+ Title = ESS_L_42543
+[2015-05-18 13:51:34,828] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 13:51:35,765] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 14:25:54,136] INFO  com.gt.core.MultipleInit  - D:/inbound/temp/ folder created
+[2015-05-18 14:25:56,142] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 14:25:56,142] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 14:25:56,142] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 14:25:56,158] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\CAATH_RV150429.csv
+[2015-05-18 14:25:56,162] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 14:25:56,163] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 14:25:56,165] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 14:25:56,165] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 14:25:59,292] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 14:25:59,292] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 14:25:59,308] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 14:25:59,308] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 14:26:04,431] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 14:26:04,441] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 14:26:06,480] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42554
+[2015-05-18 14:26:06,480] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42554
+[2015-05-18 14:26:06,777] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42555
+[2015-05-18 14:26:06,777] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42555
+[2015-05-18 14:26:07,045] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 14:26:07,045] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42554 Wait time = 60000
+[2015-05-18 14:26:07,404] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 14:26:07,404] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42555 Wait time = 60000
+[2015-05-18 14:27:08,621] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 14:27:08,621] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 14:27:08,621] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 14:27:08,934] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 14:27:08,934] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 14:27:08,934] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 14:27:09,262] INFO  com.gt.service.FusionServiceStub  - Job code : 42555 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1a12263]
+[2015-05-18 14:27:09,262] INFO  com.gt.service.FusionServiceStub  - 
+file name:42555.zip
+content typezip
+[2015-05-18 14:27:09,262] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 14:27:09,262] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42555.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 14:27:09,262] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 14:27:09,262] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42555 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 14:27:09,262] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 14:27:09,262] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42555 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42555.zip 
+ Title = Current Journals  Import
+[2015-05-18 14:27:09,262] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 14:27:09,480] INFO  com.gt.service.FusionServiceStub  - Job code : 42554 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@7bdc26]
+[2015-05-18 14:27:09,480] INFO  com.gt.service.FusionServiceStub  - 
+file name:42554.zip
+content typezip
+[2015-05-18 14:27:09,480] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 14:27:09,480] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42554.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 14:27:09,496] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 14:27:09,496] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42554 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 14:27:09,496] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 14:27:09,496] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42554 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42554.zip 
+ Title = Current Journals  Import
+[2015-05-18 14:27:09,496] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 14:27:10,355] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 14:27:10,355] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 14:27:10,402] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 14:27:10,402] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 14:27:11,026] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42560
+[2015-05-18 14:27:11,026] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42560
+[2015-05-18 14:27:11,089] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42561
+[2015-05-18 14:27:11,089] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42561
+[2015-05-18 14:27:11,619] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 14:27:11,619] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42560 Wait time = 60000
+[2015-05-18 14:27:11,683] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 14:27:11,683] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42561 Wait time = 60000
+[2015-05-18 14:28:12,645] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 14:28:12,645] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 14:28:12,645] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 14:28:12,693] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 14:28:12,693] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 14:28:12,693] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 14:28:13,488] INFO  com.gt.service.FusionServiceStub  - Job code : 42560 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@14ed531]
+[2015-05-18 14:28:13,488] INFO  com.gt.service.FusionServiceStub  - 
+file name:42560.zip
+content typezip
+[2015-05-18 14:28:13,488] INFO  com.gt.service.FusionServiceStub  - Job code : 42561 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1f25487]
+[2015-05-18 14:28:13,488] INFO  com.gt.service.FusionServiceStub  - 
+file name:42561.zip
+content typezip
+[2015-05-18 14:28:13,519] INFO  com.gt.util.WorkerThread  - D:/inbound/archives/ folder created
+[2015-05-18 14:28:13,519] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180228135190.zip
+[2015-05-18 14:28:13,519] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals201505180225561580.zip
+[2015-05-18 14:28:13,519] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180228135191.zip
+[2015-05-18 14:28:13,519] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals201505180225561421.zip
+[2015-05-18 14:28:13,519] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-18 14:35:49,727] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 14:35:52,989] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 14:35:55,400] INFO  com.gt.service.FusionServiceStub  - Job code : 42561 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@fb309]
+[2015-05-18 14:35:55,400] INFO  com.gt.service.FusionServiceStub  - 
+file name:42561.zip
+content typezip
+[2015-05-18 14:35:55,400] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 14:35:55,400] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42561.zip
+fileName =null
+title =ESS_L_42561
+
+[2015-05-18 14:35:55,400] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 14:35:55,400] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42561 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 14:35:55,400] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 14:35:55,400] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42561 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42561.zip 
+ Title = ESS_L_42561
+[2015-05-18 14:35:55,400] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 14:35:56,540] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 14:37:21,384] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 14:37:24,473] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 14:37:27,487] INFO  com.gt.service.FusionServiceStub  - Job code : 42560 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-05-18 14:37:27,487] INFO  com.gt.service.FusionServiceStub  - 
+file name:42560.zip
+content typezip
+[2015-05-18 14:37:27,487] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 14:37:27,487] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42560.zip
+fileName =null
+title =ESS_L_42560
+
+[2015-05-18 14:37:27,503] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 14:37:27,503] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42560 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 14:37:27,503] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 14:37:27,503] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42560 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42560.zip 
+ Title = ESS_L_42560
+[2015-05-18 14:37:27,503] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 14:37:28,643] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 14:39:12,473] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 14:39:12,473] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\CAATH_RV150429.csv
+[2015-05-18 14:39:12,473] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 14:39:12,473] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 14:39:16,836] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 14:39:16,836] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 14:39:21,549] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 14:39:25,672] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42563
+[2015-05-18 14:39:25,672] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42563
+[2015-05-18 14:39:27,358] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 14:39:27,358] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42563 Wait time = 60000
+[2015-05-18 14:40:28,780] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: COMPLETED
+[2015-05-18 14:40:28,780] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42563 Wait time = 60000
+[2015-05-18 14:41:29,952] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 14:41:29,952] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 14:41:29,952] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 14:41:32,574] INFO  com.gt.service.FusionServiceStub  - Job code : 42563 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@11e90b4]
+[2015-05-18 14:41:32,574] INFO  com.gt.service.FusionServiceStub  - 
+file name:42563.zip
+content typezip
+[2015-05-18 14:41:32,574] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 14:41:32,574] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42563.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 14:41:32,574] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 14:41:32,574] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42563 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 14:41:32,574] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 14:41:32,574] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42563 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42563.zip 
+ Title = Current Journals  Import
+[2015-05-18 14:41:32,574] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 14:41:33,487] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 14:41:33,487] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 14:41:34,879] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42566
+[2015-05-18 14:41:34,879] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42566
+[2015-05-18 14:41:35,896] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: RUNNING
+[2015-05-18 14:41:35,896] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42566 Wait time = 60000
+[2015-05-18 14:42:37,400] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 14:42:37,400] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 14:42:37,400] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 14:42:40,209] INFO  com.gt.service.FusionServiceStub  - Job code : 42566 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@127708d]
+[2015-05-18 14:42:40,209] INFO  com.gt.service.FusionServiceStub  - 
+file name:42566.zip
+content typezip
+[2015-05-18 14:42:40,209] INFO  com.gt.util.WorkerThread  - D:/inbound/archives/ folder created
+[2015-05-18 14:42:40,209] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180242402090.zip
+[2015-05-18 14:42:40,209] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals201505180239124730.zip
+[2015-05-18 14:42:40,209] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-18 14:49:32,183] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 14:49:32,183] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\CAATH_RV150429.csv
+[2015-05-18 14:49:32,198] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 14:49:32,198] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 14:49:34,875] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 14:49:34,875] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 14:49:39,277] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 14:49:40,909] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42567
+[2015-05-18 14:49:40,909] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42567
+[2015-05-18 14:49:41,518] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 14:49:41,518] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42567 Wait time = 60000
+[2015-05-18 14:50:42,463] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 14:50:42,463] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 14:50:42,463] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 14:50:43,870] INFO  com.gt.service.FusionServiceStub  - Job code : 42567 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@14f43c3]
+[2015-05-18 14:50:43,870] INFO  com.gt.service.FusionServiceStub  - 
+file name:42567.zip
+content typezip
+[2015-05-18 14:50:43,870] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 14:50:43,870] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42567.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 14:50:43,870] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 14:50:43,886] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42567 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 14:50:43,886] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 14:50:43,886] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42567 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42567.zip 
+ Title = Current Journals  Import
+[2015-05-18 14:50:43,886] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 14:50:44,920] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 14:50:44,920] INFO  com.gt.service.FusionServiceStub  - deleting fileD:\inbound\temp\42567.zip
+[2015-05-18 14:50:44,920] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 14:50:45,607] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42570
+[2015-05-18 14:50:45,607] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42570
+[2015-05-18 14:50:46,543] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 14:50:46,543] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42570 Wait time = 60000
+[2015-05-18 14:51:48,005] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 14:51:48,005] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 14:51:48,005] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 14:51:48,960] INFO  com.gt.service.FusionServiceStub  - Job code : 42570 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@d73699]
+[2015-05-18 14:51:48,960] INFO  com.gt.service.FusionServiceStub  - 
+file name:42570.zip
+content typezip
+[2015-05-18 14:51:48,960] INFO  com.gt.service.FusionServiceStub  - deleting fileD:\inbound\temp\42570.zip
+[2015-05-18 14:51:48,960] INFO  com.gt.util.WorkerThread  - D:/inbound/archives/ folder created
+[2015-05-18 14:51:48,960] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180251489600.zip
+[2015-05-18 14:51:48,960] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals201505180249321830.zip
+[2015-05-18 14:51:48,960] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-18 15:01:18,209] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:01:18,209] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\CAATH_RV150429.csv
+[2015-05-18 15:01:18,209] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:01:18,209] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:01:21,114] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:01:21,130] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:01:26,707] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:01:28,814] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42571
+[2015-05-18 15:01:28,814] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42571
+[2015-05-18 15:01:29,377] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:01:29,377] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42571 Wait time = 60000
+[2015-05-18 15:02:30,382] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:02:30,382] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:02:30,382] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:02:31,553] INFO  com.gt.service.FusionServiceStub  - Job code : 42571 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1c233]
+[2015-05-18 15:02:31,553] INFO  com.gt.service.FusionServiceStub  - 
+file name:42571.zip
+content typezip
+[2015-05-18 15:02:31,553] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:02:31,553] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42571.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:02:31,568] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:02:31,568] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42571 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:02:31,568] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:02:31,568] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42571 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42571.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:02:31,568] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:02:32,568] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:02:32,568] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 15:02:33,442] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42574
+[2015-05-18 15:02:33,442] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42574
+[2015-05-18 15:02:34,209] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:02:34,209] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42574 Wait time = 60000
+[2015-05-18 15:03:36,051] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:03:36,051] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:03:36,051] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:03:36,973] INFO  com.gt.service.FusionServiceStub  - Job code : 42574 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@d1b9a9]
+[2015-05-18 15:03:36,973] INFO  com.gt.service.FusionServiceStub  - 
+file name:42574.zip
+content typezip
+[2015-05-18 15:03:36,973] INFO  com.gt.service.FusionServiceStub  - file not deleted D:\inbound\temp\42574.zip
+[2015-05-18 15:03:36,973] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180303369730.zip
+[2015-05-18 15:03:36,973] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals201505180301182090.zip
+[2015-05-18 15:03:36,973] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-18 15:07:44,086] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:07:47,320] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:07:48,375] INFO  com.gt.service.FusionServiceStub  - Job code : 42574 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-05-18 15:07:48,375] INFO  com.gt.service.FusionServiceStub  - 
+file name:42574.zip
+content typezip
+[2015-05-18 15:07:48,390] INFO  com.gt.service.FusionServiceStub  - file not deleted D:\inbound\temp\42574.zip
+[2015-05-18 15:09:06,597] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:09:09,730] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:09:10,861] INFO  com.gt.service.FusionServiceStub  - Job code : 42574 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@5ed836]
+[2015-05-18 15:09:10,861] INFO  com.gt.service.FusionServiceStub  - 
+file name:42574.zip
+content typezip
+[2015-05-18 15:09:10,876] INFO  com.gt.service.FusionServiceStub  - file deleted successfully D:\inbound\temp\42574.zip
+[2015-05-18 15:11:51,321] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:11:51,321] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\CAATH_RV150429.csv
+[2015-05-18 15:11:51,321] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:11:51,337] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 15:11:51,337] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:11:51,337] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:11:51,337] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:11:51,337] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:11:54,249] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:11:54,249] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:11:54,264] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:11:54,264] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:12:01,069] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:12:01,273] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:12:02,049] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42576
+[2015-05-18 15:12:02,049] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42576
+[2015-05-18 15:12:02,564] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42575
+[2015-05-18 15:12:02,564] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42575
+[2015-05-18 15:12:03,875] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:12:03,875] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42575 Wait time = 60000
+[2015-05-18 15:12:03,891] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:12:03,891] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42576 Wait time = 60000
+[2015-05-18 15:13:04,856] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:13:04,856] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:13:04,856] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:13:04,887] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:13:04,887] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:13:04,887] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:13:05,512] INFO  com.gt.service.FusionServiceStub  - Job code : 42576 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1f64375]
+[2015-05-18 15:13:05,512] INFO  com.gt.service.FusionServiceStub  - 
+file name:42576.zip
+content typezip
+[2015-05-18 15:13:05,512] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:13:05,512] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42576.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:13:05,512] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:13:05,512] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42576 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:13:05,512] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:13:05,512] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42576 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42576.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:13:05,512] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:13:05,652] INFO  com.gt.service.FusionServiceStub  - Job code : 42575 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@342c30]
+[2015-05-18 15:13:05,652] INFO  com.gt.service.FusionServiceStub  - 
+file name:42575.zip
+content typezip
+[2015-05-18 15:13:05,652] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:13:05,652] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42575.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:13:05,652] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:13:05,652] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42575 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:13:05,652] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:13:05,652] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42575 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42575.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:13:05,652] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:13:06,682] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:13:06,682] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:13:06,682] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-18 15:16:12,563] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:16:12,563] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 15:16:12,579] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:16:12,579] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:16:12,611] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:16:12,611] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\CAATH_RV150429.csv
+[2015-05-18 15:16:12,611] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:16:12,611] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:16:15,405] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:16:15,405] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:16:15,420] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:16:15,420] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:16:19,731] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:16:19,731] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:16:22,668] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42582
+[2015-05-18 15:16:22,668] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42582
+[2015-05-18 15:16:22,668] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42581
+[2015-05-18 15:16:22,668] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42581
+[2015-05-18 15:16:23,257] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:16:23,257] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42581 Wait time = 60000
+[2015-05-18 15:16:23,460] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:16:23,460] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42582 Wait time = 60000
+[2015-05-18 15:17:24,193] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:17:24,193] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:17:24,193] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:17:24,334] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:17:24,334] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:17:24,334] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:17:25,036] INFO  com.gt.service.FusionServiceStub  - Job code : 42582 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1fd3b89]
+[2015-05-18 15:17:25,036] INFO  com.gt.service.FusionServiceStub  - 
+file name:42582.zip
+content typezip
+[2015-05-18 15:17:25,036] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:17:25,036] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42582.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:17:25,036] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:17:25,036] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42582 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:17:25,036] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:17:25,036] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42582 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42582.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:17:25,036] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:17:25,083] INFO  com.gt.service.FusionServiceStub  - Job code : 42581 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@e50b25]
+[2015-05-18 15:17:25,083] INFO  com.gt.service.FusionServiceStub  - 
+file name:42581.zip
+content typezip
+[2015-05-18 15:17:25,083] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:17:25,083] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42581.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:17:25,083] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:17:25,083] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42581 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:17:25,083] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:17:25,083] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42581 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42581.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:17:25,083] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:17:26,160] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:17:27,487] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:17:27,487] INFO  com.gt.util.ConstructZipFile  - Finished all threads
+[2015-05-18 15:24:51,549] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:24:51,549] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\CAATH_RV150429.csv
+[2015-05-18 15:24:51,549] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:24:51,549] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:24:51,582] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:24:51,582] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 15:24:51,582] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:24:51,582] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:24:54,250] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:24:54,250] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:24:54,345] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:24:54,345] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:24:59,185] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:24:59,200] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:25:00,828] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42587
+[2015-05-18 15:25:00,828] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42587
+[2015-05-18 15:25:01,016] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42588
+[2015-05-18 15:25:01,016] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42588
+[2015-05-18 15:25:01,624] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:25:01,624] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42587 Wait time = 60000
+[2015-05-18 15:25:01,799] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:25:01,799] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42588 Wait time = 60000
+[2015-05-18 15:26:02,707] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:26:02,707] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:26:02,707] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:26:02,786] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:26:02,786] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:26:02,786] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:26:03,394] INFO  com.gt.service.FusionServiceStub  - Job code : 42588 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1a07324]
+[2015-05-18 15:26:03,394] INFO  com.gt.service.FusionServiceStub  - 
+file name:42588.zip
+content typezip
+[2015-05-18 15:26:03,394] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:26:03,394] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42588.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:26:03,425] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:26:03,425] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42588 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:26:03,425] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:26:03,425] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42588 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42588.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:26:03,425] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:26:03,503] INFO  com.gt.service.FusionServiceStub  - Job code : 42587 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@290460]
+[2015-05-18 15:26:03,503] INFO  com.gt.service.FusionServiceStub  - 
+file name:42587.zip
+content typezip
+[2015-05-18 15:26:03,503] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:26:03,503] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42587.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:26:03,503] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:26:03,503] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42587 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:26:03,503] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:26:03,503] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42587 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42587.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:26:03,503] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:26:04,396] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:26:04,475] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:26:04,475] INFO  com.gt.util.ImportManager  - Finished all threads
+[2015-05-18 15:26:55,845] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:26:55,845] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\CAATH_RV150429.csv
+[2015-05-18 15:26:55,845] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:26:55,845] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:26:56,236] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:26:56,236] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 15:26:56,236] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:26:56,236] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:26:58,756] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:26:58,772] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:26:58,772] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:26:58,772] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:27:02,548] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:27:02,548] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:27:03,220] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42593
+[2015-05-18 15:27:03,220] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42593
+[2015-05-18 15:27:03,236] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42594
+[2015-05-18 15:27:03,236] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42594
+[2015-05-18 15:27:03,766] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:27:03,766] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42594 Wait time = 60000
+[2015-05-18 15:27:03,766] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:27:03,766] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42593 Wait time = 60000
+[2015-05-18 15:28:04,652] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:28:04,652] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:28:04,652] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:28:04,668] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:28:04,668] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:28:04,668] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:28:05,371] INFO  com.gt.service.FusionServiceStub  - Job code : 42593 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@13fbfc4]
+[2015-05-18 15:28:05,371] INFO  com.gt.service.FusionServiceStub  - 
+file name:42593.zip
+content typezip
+[2015-05-18 15:28:05,371] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:28:05,371] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42593.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:28:05,386] INFO  com.gt.service.FusionServiceStub  - Job code : 42594 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@17694d3]
+[2015-05-18 15:28:05,386] INFO  com.gt.service.FusionServiceStub  - 
+file name:42594.zip
+content typezip
+[2015-05-18 15:28:05,386] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:28:05,386] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42594.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:28:05,386] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:28:05,386] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:28:05,386] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42593 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:28:05,386] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42594 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:28:05,386] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:28:05,386] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:28:05,386] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42593 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42593.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:28:05,386] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:28:05,386] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42594 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42594.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:28:05,386] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:28:06,525] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:28:06,525] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 15:28:06,525] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:28:06,525] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 15:28:07,166] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42599
+[2015-05-18 15:28:07,166] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42599
+[2015-05-18 15:28:07,197] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42600
+[2015-05-18 15:28:07,197] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42600
+[2015-05-18 15:28:07,778] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:28:07,778] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42600 Wait time = 60000
+[2015-05-18 15:28:07,778] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:28:07,778] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42599 Wait time = 60000
+[2015-05-18 15:29:08,842] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:29:08,842] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:29:08,842] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:29:08,842] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:29:08,842] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:29:08,842] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:29:09,861] INFO  com.gt.service.FusionServiceStub  - Job code : 42600 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1938b34]
+[2015-05-18 15:29:09,861] INFO  com.gt.service.FusionServiceStub  - 
+file name:42600.zip
+content typezip
+[2015-05-18 15:29:09,861] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180329098610.zip
+[2015-05-18 15:29:09,861] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals201505180326558450.zip
+[2015-05-18 15:29:09,877] INFO  com.gt.service.FusionServiceStub  - Job code : 42599 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1b13923]
+[2015-05-18 15:29:09,877] INFO  com.gt.service.FusionServiceStub  - 
+file name:42599.zip
+content typezip
+[2015-05-18 15:29:09,877] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180329098771.zip
+[2015-05-18 15:29:09,877] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals201505180326562361.zip
+[2015-05-18 15:29:09,877] INFO  com.gt.util.ImportManager  - Finished all threads
+[2015-05-18 15:32:07,692] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:32:07,692] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 15:32:07,724] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:32:07,724] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:32:07,740] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:32:07,740] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\CAATH_RV150429.csv
+[2015-05-18 15:32:07,740] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:32:07,740] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:32:10,596] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:32:10,596] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:32:10,850] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:32:10,850] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:32:15,530] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:32:15,626] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:32:17,576] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42601
+[2015-05-18 15:32:17,576] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42601
+[2015-05-18 15:32:18,185] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42602
+[2015-05-18 15:32:18,185] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42602
+[2015-05-18 15:32:18,419] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:32:18,419] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42601 Wait time = 60000
+[2015-05-18 15:32:19,294] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:32:19,294] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42602 Wait time = 60000
+[2015-05-18 15:33:20,703] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:33:20,703] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:33:20,703] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:33:21,096] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:33:21,096] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:33:21,096] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:33:22,032] INFO  com.gt.service.FusionServiceStub  - Job code : 42601 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@60f6f2]
+[2015-05-18 15:33:22,032] INFO  com.gt.service.FusionServiceStub  - 
+file name:42601.zip
+content typezip
+[2015-05-18 15:33:22,032] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:33:22,032] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42601.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:33:22,047] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:33:22,047] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42601 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:33:22,047] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:33:22,047] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42601 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42601.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:33:22,047] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:33:22,047] INFO  com.gt.service.FusionServiceStub  - Job code : 42602 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@15e25da]
+[2015-05-18 15:33:22,047] INFO  com.gt.service.FusionServiceStub  - 
+file name:42602.zip
+content typezip
+[2015-05-18 15:33:22,047] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:33:22,047] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42602.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:33:22,047] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:33:22,047] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42602 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:33:22,047] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:33:22,047] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42602 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42602.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:33:22,047] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:33:23,140] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:33:23,140] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 15:33:23,140] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:33:23,140] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 15:33:24,314] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42607
+[2015-05-18 15:33:24,314] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42607
+[2015-05-18 15:33:24,675] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42608
+[2015-05-18 15:33:24,675] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42608
+[2015-05-18 15:33:25,658] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:33:25,658] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42607 Wait time = 60000
+[2015-05-18 15:33:26,158] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:33:26,158] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42608 Wait time = 60000
+[2015-05-18 15:34:27,230] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:34:27,230] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:34:27,230] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:34:28,058] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:34:28,058] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:34:28,058] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:34:28,074] INFO  com.gt.service.FusionServiceStub  - Job code : 42607 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@55d3ef]
+[2015-05-18 15:34:28,074] INFO  com.gt.service.FusionServiceStub  - 
+file name:42607.zip
+content typezip
+[2015-05-18 15:34:28,074] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals20150518033428740.zip
+[2015-05-18 15:34:28,074] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals20150518033277400.zip
+[2015-05-18 15:34:28,809] INFO  com.gt.service.FusionServiceStub  - Job code : 42608 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@93cf8d]
+[2015-05-18 15:34:28,809] INFO  com.gt.service.FusionServiceStub  - 
+file name:42608.zip
+content typezip
+[2015-05-18 15:34:28,809] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180334288091.zip
+[2015-05-18 15:34:28,809] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals20150518033276921.zip
+[2015-05-18 15:34:28,809] INFO  com.gt.util.ImportManager  - Finished all threads
+[2015-05-18 15:37:56,870] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:37:56,870] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 15:37:56,870] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:37:56,870] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:37:59,812] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:37:59,812] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:38:05,213] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:38:06,805] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42609
+[2015-05-18 15:38:06,805] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42609
+[2015-05-18 15:38:07,617] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:38:07,617] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42609 Wait time = 60000
+[2015-05-18 15:39:09,143] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:39:09,143] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:39:09,143] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:39:10,457] INFO  com.gt.service.FusionServiceStub  - Job code : 42609 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1134e41]
+[2015-05-18 15:39:10,457] INFO  com.gt.service.FusionServiceStub  - 
+file name:42609.zip
+content typezip
+[2015-05-18 15:39:10,457] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:39:10,457] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42609.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:39:10,489] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:39:10,490] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42609 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:39:10,490] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:39:10,492] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42609 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42609.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:39:10,492] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:39:11,663] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:39:11,664] INFO  com.gt.service.FusionServiceStub  - ATTach to emailD:\inbound\temp\42609.zip
+[2015-05-18 15:39:11,664] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 15:39:12,906] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42612
+[2015-05-18 15:39:12,906] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42612
+[2015-05-18 15:39:13,968] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:39:13,968] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42612 Wait time = 60000
+[2015-05-18 15:40:15,248] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:40:15,248] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:40:15,248] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:40:16,435] INFO  com.gt.service.FusionServiceStub  - Job code : 42612 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@b7228c]
+[2015-05-18 15:40:16,435] INFO  com.gt.service.FusionServiceStub  - 
+file name:42612.zip
+content typezip
+[2015-05-18 15:40:16,451] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180340164510.zip
+[2015-05-18 15:40:16,451] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals201505180337568700.zip
+[2015-05-18 15:40:16,451] INFO  com.gt.util.ImportManager  - Finished all threads
+[2015-05-18 15:45:35,760] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:45:35,760] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 15:45:35,760] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:45:35,760] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:45:39,210] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:45:39,210] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:45:44,285] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:45:49,018] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42613
+[2015-05-18 15:45:49,018] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42613
+[2015-05-18 15:45:49,893] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:45:49,893] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42613 Wait time = 60000
+[2015-05-18 15:46:51,463] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:46:51,463] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:46:51,463] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:46:52,150] INFO  com.gt.service.FusionServiceStub  - Job code : 42613 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@197e19d]
+[2015-05-18 15:46:52,150] INFO  com.gt.service.FusionServiceStub  - 
+file name:42613.zip
+content typezip
+[2015-05-18 15:46:52,150] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:46:52,150] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42613.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:46:52,166] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:46:52,166] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42613 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:46:52,166] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:46:52,166] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42613 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42613.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:46:52,166] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:46:53,164] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:46:53,164] INFO  com.gt.service.FusionServiceStub  - ATTach to emailD:\inbound\temp\42613.zip
+[2015-05-18 15:46:53,164] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 15:46:53,884] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42616
+[2015-05-18 15:46:53,884] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42616
+[2015-05-18 15:46:54,461] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:46:54,461] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42616 Wait time = 60000
+[2015-05-18 15:47:56,231] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:47:56,231] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:47:56,231] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:47:57,277] INFO  com.gt.service.FusionServiceStub  - Job code : 42616 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1e000ea]
+[2015-05-18 15:47:57,277] INFO  com.gt.service.FusionServiceStub  - 
+file name:42616.zip
+content typezip
+[2015-05-18 15:47:57,277] INFO  com.gt.service.FusionServiceStub  - IO Exception while reading JI log files:Stream closed
+[2015-05-18 15:47:57,277] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180347572770.zip
+[2015-05-18 15:47:57,277] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals201505180345357600.zip
+[2015-05-18 15:47:57,277] INFO  com.gt.util.ImportManager  - Finished all threads
+[2015-05-18 15:49:42,696] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 15:49:42,696] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 15:49:42,696] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 15:49:42,696] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 15:49:45,631] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 15:49:45,631] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 15:49:50,021] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 15:49:50,756] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42617
+[2015-05-18 15:49:50,756] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42617
+[2015-05-18 15:49:51,412] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:49:51,412] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42617 Wait time = 60000
+[2015-05-18 15:50:52,336] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:50:52,336] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:50:52,336] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:50:53,476] INFO  com.gt.service.FusionServiceStub  - Job code : 42617 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@120ee2c]
+[2015-05-18 15:50:53,476] INFO  com.gt.service.FusionServiceStub  - 
+file name:42617.zip
+content typezip
+[2015-05-18 15:50:53,476] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 15:50:53,476] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42617.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 15:50:53,491] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 15:50:53,491] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42617 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 15:50:53,491] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 15:50:53,491] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42617 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42617.zip 
+ Title = Current Journals  Import
+[2015-05-18 15:50:53,491] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 15:50:54,571] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 15:50:54,586] INFO  com.gt.service.FusionServiceStub  - ATTach to emailD:\inbound\temp\42617.zip
+[2015-05-18 15:50:54,586] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 15:50:55,274] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42620
+[2015-05-18 15:50:55,274] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42620
+[2015-05-18 15:50:55,960] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 15:50:55,960] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42620 Wait time = 60000
+[2015-05-18 15:51:56,901] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 15:51:56,901] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 15:51:56,901] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 15:51:58,150] INFO  com.gt.service.FusionServiceStub  - Job code : 42620 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1e05708]
+[2015-05-18 15:51:58,150] INFO  com.gt.service.FusionServiceStub  - 
+file name:42620.zip
+content typezip
+[2015-05-18 15:51:58,150] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180351581500.zip
+[2015-05-18 15:51:58,150] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals201505180349426960.zip
+[2015-05-18 15:51:58,150] INFO  com.gt.util.ImportManager  - Finished all threads
+[2015-05-18 16:23:28,987] INFO  com.gt.util.WorkerThread  - Inprocess not cleanedD:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 16:23:59,646] INFO  com.gt.util.WorkerThread  - Inprocess not cleanedD:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 16:28:04,355] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-18 16:28:04,355] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\inbound\temp\inprocess\COMTH_RV150429.csv
+[2015-05-18 16:28:04,355] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-18 16:28:04,355] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-18 16:28:06,993] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-18 16:28:06,993] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-18 16:28:11,956] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-18 16:28:13,596] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 42637
+[2015-05-18 16:28:13,596] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42637
+[2015-05-18 16:28:14,225] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 16:28:14,225] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42637 Wait time = 60000
+[2015-05-18 16:29:15,244] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 16:29:15,244] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 16:29:15,244] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 16:29:15,916] INFO  com.gt.service.FusionServiceStub  - Job code : 42637 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@16fe46b]
+[2015-05-18 16:29:15,916] INFO  com.gt.service.FusionServiceStub  - 
+file name:42637.zip
+content typezip
+[2015-05-18 16:29:15,916] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-18 16:29:15,916] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =42637.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-18 16:29:15,932] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-18 16:29:15,932] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 42637 execution status is SUCCEEDED, details and log files attached
+[2015-05-18 16:29:15,932] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-18 16:29:15,932] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 42637 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 42637.zip 
+ Title = Current Journals  Import
+[2015-05-18 16:29:15,932] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-18 16:29:17,008] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-18 16:29:17,008] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-18 16:29:17,820] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 42640
+[2015-05-18 16:29:17,820] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 42640
+[2015-05-18 16:29:18,397] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-18 16:29:18,397] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 42640 Wait time = 60000
+[2015-05-18 16:30:19,442] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-18 16:30:19,442] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-18 16:30:19,442] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-18 16:30:20,301] INFO  com.gt.service.FusionServiceStub  - Job code : 42640 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@16cf860]
+[2015-05-18 16:30:20,301] INFO  com.gt.service.FusionServiceStub  - 
+file name:42640.zip
+content typezip
+[2015-05-18 16:30:20,301] INFO  com.gt.util.WorkerThread  - File moved to archives successfullyD:/inbound/archives/CurrentJournals201505180430203010.zip
+[2015-05-18 16:30:20,301] INFO  com.gt.util.WorkerThread  - zip fileD:\inbound\temp\CurrentJournals20150518042843550.zip
+[2015-05-18 16:30:20,301] INFO  com.gt.util.WorkerThread  - Inprocess cleaned
+[2015-05-18 16:30:20,301] INFO  com.gt.util.ImportManager  - Finished all threads

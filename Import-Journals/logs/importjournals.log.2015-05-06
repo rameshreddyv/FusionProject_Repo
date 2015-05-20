@@ -1,0 +1,1174 @@
+[2015-05-06 15:09:56,782] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 15:09:56,782] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\current given date.txt
+[2015-05-06 15:09:56,792] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 15:09:56,792] INFO  com.gt.core.MultileInit  - File moved to archives successfully
+[2015-05-06 15:09:56,792] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 15:09:56,792] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-06 15:09:56,802] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 15:09:56,802] INFO  com.gt.core.MultileInit  - File already exists
+[2015-05-06 15:09:56,802] INFO  com.gt.core.MultileInit  - File failed to move
+[2015-05-06 15:09:56,802] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 15:09:56,802] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-06 15:09:56,802] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 15:09:56,802] INFO  com.gt.core.MultileInit  - File already exists
+[2015-05-06 15:09:56,802] INFO  com.gt.core.MultileInit  - File failed to move
+[2015-05-06 15:09:56,802] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 15:09:56,802] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-06 15:09:56,812] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 15:09:56,812] INFO  com.gt.core.MultileInit  - File already exists
+[2015-05-06 15:09:56,812] INFO  com.gt.core.MultileInit  - File failed to move
+[2015-05-06 16:01:14,916] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:01:14,916] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\current given date.txt
+[2015-05-06 16:01:14,916] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:01:14,916] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:01:14,916] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:01:14,916] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-06 16:01:14,931] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:01:14,931] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:01:14,931] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:01:14,931] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-06 16:01:14,931] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:01:14,931] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:01:14,931] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:01:14,931] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-06 16:01:14,931] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:01:14,931] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:03:37,926] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:03:37,926] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\current given date.txt
+[2015-05-06 16:03:37,926] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:03:37,926] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:03:37,926] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:03:37,926] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-06 16:03:37,941] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:03:37,941] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:03:37,941] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:03:37,941] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-06 16:03:37,941] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:03:37,941] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:03:37,941] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:03:37,941] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-06 16:03:37,941] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:03:37,941] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:04:30,498] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\current given date.txt
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:04:30,513] INFO  com.gt.core.MultipleInit  - File moved to archives successfully
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:04:30,513] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:04:30,513] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:04:30,513] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:04:30,513] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-06 16:04:30,513] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:04:30,513] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:04:30,513] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:05:28,190] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:05:28,190] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\current given date.txt
+[2015-05-06 16:05:28,190] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:05:28,205] INFO  com.gt.core.MultipleInit  - File moved to archives successfully
+[2015-05-06 16:05:28,205] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:05:28,205] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-06 16:05:28,205] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:05:28,205] INFO  com.gt.core.MultipleInit  - File moved to archives successfully
+[2015-05-06 16:05:28,205] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:05:28,205] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-06 16:05:28,205] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:05:28,205] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:05:28,205] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:05:28,205] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:05:28,205] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-06 16:05:28,205] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:05:28,205] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:05:28,205] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:06:06,645] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:06:06,645] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\current given date.txt
+[2015-05-06 16:06:06,645] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:06:06,645] INFO  com.gt.core.MultipleInit  - File moved to archives successfully
+[2015-05-06 16:06:06,645] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:06:06,645] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150406.csv
+[2015-05-06 16:06:06,660] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:06:06,660] INFO  com.gt.core.MultipleInit  - File moved to archives successfully
+[2015-05-06 16:06:06,660] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:06:06,660] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150407.csv
+[2015-05-06 16:06:06,660] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:06:06,660] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:06:06,660] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:06:06,660] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:06:06,660] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\CurrentJournals20150415.csv
+[2015-05-06 16:06:06,660] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:06:06,660] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:06:06,660] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:10:25,303] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:10:25,303] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\current given date.txt
+[2015-05-06 16:10:25,319] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:10:25,319] INFO  com.gt.core.MultipleInit  - File moved to archives successfully
+[2015-05-06 16:10:25,319] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:10:25,319] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 16:10:25,319] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:10:25,319] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:10:25,319] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:10:25,319] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:10:25,319] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 16:10:25,319] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:10:25,319] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:10:25,319] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:10:25,319] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:10:25,319] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 16:10:25,319] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:10:25,319] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:10:25,319] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:12:15,140] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:12:15,140] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\current given date.txt
+[2015-05-06 16:12:15,140] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:12:15,140] INFO  com.gt.core.MultipleInit  - File moved to archives successfully
+[2015-05-06 16:12:15,140] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:12:15,140] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 16:12:15,140] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:12:15,140] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:12:15,140] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:12:15,140] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:12:15,140] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 16:12:15,156] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:12:15,156] INFO  com.gt.core.MultipleInit  - File moved to archives successfully
+[2015-05-06 16:12:15,156] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:12:15,156] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 16:12:15,156] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:12:15,156] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:12:15,156] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:15:17,669] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:15:17,669] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\current given date.txt
+[2015-05-06 16:15:17,669] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:15:17,669] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506041517669.zip
+[2015-05-06 16:15:17,669] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:15:17,669] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 16:15:17,700] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:15:17,700] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506041517700.zip
+[2015-05-06 16:15:17,700] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:15:17,700] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 16:15:17,700] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:15:17,700] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:15:17,700] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:15:17,700] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:15:17,700] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 16:15:17,700] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:15:17,700] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:15:17,700] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:50:15,103] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:50:15,103] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\current given date.txt
+[2015-05-06 16:50:15,103] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:50:15,103] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506045015103.zip
+[2015-05-06 16:50:15,103] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:50:15,103] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 16:50:15,135] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:50:15,135] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506045015135.zip
+[2015-05-06 16:50:15,135] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:50:15,135] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 16:50:15,135] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:50:15,135] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:50:15,135] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:50:15,135] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:50:15,135] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 16:50:15,135] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:50:15,135] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:50:15,135] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:53:37,810] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:53:37,810] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\current given date.txt
+[2015-05-06 16:53:37,810] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:53:37,810] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506045337810.zip
+[2015-05-06 16:53:37,810] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:53:37,810] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 16:53:37,810] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:53:37,810] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:53:37,810] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:53:37,810] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:53:37,810] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 16:53:37,826] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:53:37,826] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506045337826.zip
+[2015-05-06 16:53:37,826] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:53:37,826] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 16:53:37,841] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:53:37,841] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506045337841.zip
+[2015-05-06 16:54:33,845] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:54:33,845] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\current given date.txt
+[2015-05-06 16:54:33,845] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:54:33,845] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506045433845.zip
+[2015-05-06 16:54:33,845] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:54:33,845] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 16:54:33,861] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:54:33,861] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506045433861.zip
+[2015-05-06 16:54:33,861] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:54:33,861] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 16:54:33,861] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:54:33,861] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:54:33,861] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:54:33,861] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:54:33,861] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 16:54:33,861] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:54:33,861] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:54:33,861] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:59:02,584] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:59:02,584] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\current given date.txt
+[2015-05-06 16:59:02,584] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:59:02,600] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506045902584.zip
+[2015-05-06 16:59:02,600] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:59:02,600] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 16:59:02,600] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:59:02,600] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506045902600.zip
+[2015-05-06 16:59:02,600] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:59:02,600] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 16:59:02,600] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:59:02,600] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:59:02,600] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 16:59:02,600] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 16:59:02,600] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 16:59:02,600] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 16:59:02,600] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 16:59:02,600] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:00:18,690] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:00:18,690] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\current given date.txt
+[2015-05-06 17:00:18,706] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:00:18,706] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506050018706.zip
+[2015-05-06 17:00:18,706] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:00:18,706] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 17:00:18,706] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:00:18,706] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 17:00:18,706] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:00:18,706] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:00:18,706] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 17:00:18,706] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:00:18,706] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 17:00:18,706] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:00:18,706] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:00:18,706] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 17:00:18,706] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:00:18,706] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 17:00:18,706] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:01:37,696] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:01:37,696] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 17:01:37,696] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:01:37,696] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506050137696.zip
+[2015-05-06 17:01:37,696] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:01:37,696] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 17:01:37,711] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:01:37,711] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506050137711.zip
+[2015-05-06 17:01:37,711] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:01:37,711] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 17:01:37,711] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:01:37,711] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 17:01:37,711] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:04:14,454] INFO  com.gt.core.MultipleInit  - 
+[2015-05-06 17:04:14,454] INFO  com.gt.core.MultipleInit  - 
+[2015-05-06 17:04:14,470] INFO  com.gt.core.MultipleInit  - 
+[2015-05-06 17:10:15,755] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:10:15,755] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 17:10:15,755] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:10:15,770] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506051015755.zip
+[2015-05-06 17:10:15,770] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:10:15,770] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 17:10:15,770] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:10:15,770] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506051015770.zip
+[2015-05-06 17:10:15,770] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:10:15,770] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 17:10:15,770] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:10:15,770] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 17:10:15,770] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:11:50,499] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:11:50,499] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 17:11:50,499] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:11:50,499] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506051150499.zip
+[2015-05-06 17:11:50,499] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:11:50,499] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 17:11:50,515] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:11:50,515] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506051150515.zip
+[2015-05-06 17:11:50,515] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:11:50,515] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 17:11:50,530] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:11:50,530] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506051150530.zip
+[2015-05-06 17:15:05,341] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:15:05,341] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:15:05,356] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:15:05,356] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506051505356.zip
+[2015-05-06 17:15:05,356] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:15:05,356] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:15:05,356] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:15:05,356] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 17:15:05,356] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:15:05,356] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:15:05,356] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:15:05,356] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:15:05,356] INFO  com.gt.core.MultipleInit  - File already exists
+[2015-05-06 17:15:05,356] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:17:38,175] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:17:38,175] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:17:38,175] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:17:38,191] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506051738191.zip
+[2015-05-06 17:17:38,191] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:17:38,191] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:17:38,191] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:17:38,191] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506051738191.zip
+[2015-05-06 17:17:38,191] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:17:38,191] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:17:38,191] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:17:38,191] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:17:38,191] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506051738191.zip
+[2015-05-06 17:17:38,191] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:19:00,838] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:19:00,838] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:19:00,838] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:19:00,838] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506051900838.zip
+[2015-05-06 17:19:00,838] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:19:00,838] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:19:00,854] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:19:00,854] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506051900854.zip
+[2015-05-06 17:19:00,854] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:19:00,854] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:19:00,854] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:23:24,250] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:23:24,250] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:23:24,250] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:23:24,250] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506052324250.zip
+[2015-05-06 17:23:24,250] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:23:24,250] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:23:24,250] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:23:24,250] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506052324250.zip
+[2015-05-06 17:23:24,250] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:23:24,250] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:23:24,250] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:23:24,266] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:23:24,266] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506052324266.zip
+[2015-05-06 17:23:56,002] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:23:56,002] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:23:56,002] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:23:56,002] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060523562.zip
+[2015-05-06 17:23:56,002] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:23:56,002] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:23:56,017] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:23:56,017] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals2015050605235617.zip
+[2015-05-06 17:23:56,017] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:23:56,017] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:23:56,017] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:23:56,017] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals2015050605235617.zip
+[2015-05-06 17:23:56,017] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:27:55,078] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:27:55,078] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:27:55,078] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:27:55,078] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals2015050605275578.zip
+[2015-05-06 17:27:55,078] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:27:55,078] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:27:55,109] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:27:55,109] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506052755109.zip
+[2015-05-06 17:27:55,109] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:27:55,109] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:27:55,109] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:27:55,109] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506052755109.zip
+[2015-05-06 17:27:55,109] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:31:17,201] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:31:17,201] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:31:17,201] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:31:17,201] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506053117201.zip
+[2015-05-06 17:31:17,201] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:31:17,201] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:31:17,217] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:31:17,217] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506053117217.zip
+[2015-05-06 17:31:17,217] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:31:17,217] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:31:17,232] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:31:17,232] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506053117232.zip
+[2015-05-06 17:32:33,871] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:32:33,886] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:32:33,886] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:32:33,886] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506053233886.zip
+[2015-05-06 17:32:33,886] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:32:33,886] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:32:33,886] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:32:33,886] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506053233886.zip
+[2015-05-06 17:32:33,886] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:32:33,886] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:32:33,886] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:32:33,886] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:32:33,886] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506053233886.zip
+[2015-05-06 17:32:33,886] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:33:37,805] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:33:37,821] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:33:37,821] INFO  com.gt.util.ConstructZipFile  - File not found found CAATH_RV150429.csv (The system cannot find the file specified)
+[2015-05-06 17:33:37,821] INFO  com.gt.core.MultipleInit  - 
+[2015-05-06 17:33:37,821] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:33:37,821] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:33:37,821] INFO  com.gt.util.ConstructZipFile  - File not found found COMTH_RV150429.csv (The system cannot find the file specified)
+[2015-05-06 17:33:37,821] INFO  com.gt.core.MultipleInit  - 
+[2015-05-06 17:33:37,821] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:33:37,821] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:33:37,821] INFO  com.gt.util.ConstructZipFile  - File not found found CVRTH_RV150429.csv (The system cannot find the file specified)
+[2015-05-06 17:33:37,821] INFO  com.gt.core.MultipleInit  - 
+[2015-05-06 17:34:47,693] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:34:47,693] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 17:34:47,693] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:34:47,693] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506053447693.zip
+[2015-05-06 17:34:47,709] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:34:47,709] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 17:34:47,709] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:34:47,709] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506053447709.zip
+[2015-05-06 17:34:47,709] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:34:47,709] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 17:34:47,709] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:34:47,709] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506053447709.zip
+[2015-05-06 17:34:47,709] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:37:06,641] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:37:06,641] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:37:06,656] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:37:06,656] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506053706656.zip
+[2015-05-06 17:37:06,656] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:37:06,656] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:37:06,656] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:37:06,656] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506053706656.zip
+[2015-05-06 17:37:06,656] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:37:06,656] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:37:06,656] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:37:06,672] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:37:06,672] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506053706672.zip
+[2015-05-06 17:39:09,636] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:39:09,636] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429q.csv
+[2015-05-06 17:39:09,636] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:39:09,636] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506053909636.zip
+[2015-05-06 17:39:09,636] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:39:09,636] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429q.csv
+[2015-05-06 17:39:09,652] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:39:09,652] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506053909652.zip
+[2015-05-06 17:39:09,652] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:39:09,652] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429q.csv
+[2015-05-06 17:39:09,652] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:39:09,652] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506053909652.zip
+[2015-05-06 17:39:09,652] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:41:43,534] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:41:43,534] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:41:43,534] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:41:43,534] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506054143534.zip
+[2015-05-06 17:41:43,534] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:41:43,534] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:41:43,534] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:41:43,534] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:41:43,534] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:41:43,534] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:41:43,550] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:41:43,550] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506054143550.zip
+[2015-05-06 17:42:53,554] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:42:53,554] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:42:53,554] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:42:53,554] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506054253554.zip
+[2015-05-06 17:42:53,569] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:42:53,569] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:42:53,585] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:42:53,585] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506054253585.zip
+[2015-05-06 17:42:53,585] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:42:53,585] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:42:53,585] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file D:\importjournals\temp\CurrentJournals.zip
+[2015-05-06 17:45:53,419] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:45:53,419] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:45:53,419] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:45:53,419] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506054553419.zip
+[2015-05-06 17:45:53,419] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:45:53,419] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:45:53,435] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:45:53,435] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506054553435.zip
+[2015-05-06 17:45:53,435] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:45:53,435] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:45:53,450] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:45:53,450] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506054553450.zip
+[2015-05-06 17:46:40,409] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:46:40,409] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:46:40,424] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:46:40,424] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506054640424.zip
+[2015-05-06 17:46:40,424] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:46:40,424] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:46:40,424] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:46:40,424] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506054640424.zip
+[2015-05-06 17:46:40,424] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:46:40,424] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:46:40,424] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:46:40,424] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:46:40,424] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506054640424.zip
+[2015-05-06 17:46:40,424] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 17:51:58,812] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:51:58,812] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 17:51:58,812] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:51:58,812] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055158812.zip
+[2015-05-06 17:51:58,812] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:51:58,812] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 17:51:58,827] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:51:58,827] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055158827.zip
+[2015-05-06 17:51:58,827] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:51:58,827] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 17:51:58,843] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:51:58,843] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055158843.zip
+[2015-05-06 17:52:21,374] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:52:21,374] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:52:21,374] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:52:21,390] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055221374.zip
+[2015-05-06 17:52:21,390] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:52:21,390] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:52:21,390] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:52:21,390] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055221390.zip
+[2015-05-06 17:52:21,390] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:52:21,390] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:52:21,406] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:52:21,406] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055221406.zip
+[2015-05-06 17:52:54,760] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:52:54,776] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 17:52:54,776] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:52:54,776] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055254776.zip
+[2015-05-06 17:52:54,776] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:52:54,776] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 17:52:54,776] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:52:54,776] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:52:54,776] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 17:52:54,776] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:54:10,434] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:54:10,434] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 17:54:10,434] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:54:10,449] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055410434.zip
+[2015-05-06 17:54:10,449] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:54:10,449] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 17:54:10,449] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:54:10,449] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055410449.zip
+[2015-05-06 17:54:10,449] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:54:10,449] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 17:54:10,465] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:54:10,465] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055410465.zip
+[2015-05-06 17:54:34,524] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:54:34,540] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:54:34,540] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:54:34,540] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055434540.zip
+[2015-05-06 17:54:34,540] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:54:34,540] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:54:34,540] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:54:34,540] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:54:34,540] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:54:34,540] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:55:46,611] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:55:46,611] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:55:46,611] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:55:46,611] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055546611.zip
+[2015-05-06 17:55:46,611] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:55:46,611] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:55:46,627] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:55:46,627] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055546627.zip
+[2015-05-06 17:55:46,627] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:55:46,627] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:55:46,627] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:56:51,826] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:56:51,842] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 17:56:51,842] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:56:51,842] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506055651842.zip
+[2015-05-06 17:56:51,842] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:56:51,842] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 17:56:51,842] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 17:56:51,842] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 17:56:51,842] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 17:56:51,842] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:04:45,863] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:04:45,863] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 18:04:45,879] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:04:45,879] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506060445879.zip
+[2015-05-06 18:04:45,879] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:04:45,879] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 18:04:45,879] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:04:45,879] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506060445879.zip
+[2015-05-06 18:04:45,879] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 18:04:45,879] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:04:45,879] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 18:04:45,879] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:04:45,879] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506060445879.zip
+[2015-05-06 18:04:45,879] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 18:05:59,948] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:05:59,948] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 18:05:59,948] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:05:59,948] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506060559948.zip
+[2015-05-06 18:05:59,948] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:05:59,948] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 18:05:59,948] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:05:59,948] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506060559948.zip
+[2015-05-06 18:05:59,948] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 18:05:59,948] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:05:59,948] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 18:05:59,964] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:05:59,964] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506060559964.zip
+[2015-05-06 18:11:41,718] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:11:41,718] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 18:11:41,718] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:11:41,718] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506061141718.zip
+[2015-05-06 18:11:41,718] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:11:41,718] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 18:11:41,718] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:11:41,718] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506061141718.zip
+[2015-05-06 18:11:41,718] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 18:11:41,734] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:11:41,734] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 18:11:41,734] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:11:41,734] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506061141734.zip
+[2015-05-06 18:15:19,534] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:15:19,534] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 18:15:19,534] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:15:19,534] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506061519534.zip
+[2015-05-06 18:15:19,534] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:15:19,534] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 18:15:19,550] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:15:19,550] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506061519550.zip
+[2015-05-06 18:15:19,550] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:15:19,550] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 18:15:19,550] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:15:19,550] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506061519550.zip
+[2015-05-06 18:15:19,550] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 18:17:01,107] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:17:01,107] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 18:17:01,107] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:17:01,107] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506061701107.zip
+[2015-05-06 18:17:01,107] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:17:01,107] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 18:17:01,107] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:17:01,107] INFO  com.gt.core.MultipleInit  - File already existsD:/importjournals/archives/CurrentJournals20150506061701107.zip
+[2015-05-06 18:17:01,107] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 18:17:01,107] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:17:01,123] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 18:17:01,123] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:17:01,123] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506061701123.zip
+[2015-05-06 18:23:18,928] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:23:18,943] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 18:23:18,943] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:23:18,943] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062318943.zip
+[2015-05-06 18:23:18,943] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:23:18,943] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 18:23:18,943] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:23:18,943] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062318943.zip
+[2015-05-06 18:23:18,943] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:23:18,943] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 18:23:18,959] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:23:18,959] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062318959.zip
+[2015-05-06 18:23:43,757] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:23:43,757] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 18:23:43,757] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:23:43,757] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062343757.zip
+[2015-05-06 18:23:43,757] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:23:43,757] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 18:23:43,757] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:23:43,757] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062343757.zip
+[2015-05-06 18:23:43,757] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:23:43,757] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 18:23:43,772] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:23:43,772] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062343772.zip
+[2015-05-06 18:24:16,552] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:24:16,552] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 18:24:16,568] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:24:16,568] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062416568.zip
+[2015-05-06 18:24:16,568] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:24:16,568] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 18:24:16,568] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:24:16,568] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062416568.zip
+[2015-05-06 18:24:16,568] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:24:16,568] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 18:24:16,568] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:24:16,568] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062416568.zip
+[2015-05-06 18:27:57,274] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:27:57,274] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 18:27:57,274] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:27:57,290] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062757274.zip
+[2015-05-06 18:27:57,290] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:27:57,290] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 18:27:57,290] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:27:57,290] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062757290.zip
+[2015-05-06 18:27:57,290] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:27:57,290] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 18:27:57,290] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:27:57,290] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506062757290.zip
+[2015-05-06 18:30:51,936] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:30:51,936] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 18:30:51,952] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:30:51,952] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506063051952.zip
+[2015-05-06 18:30:51,952] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:30:51,952] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 18:30:51,952] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:30:51,952] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506063051952.zip
+[2015-05-06 18:30:51,952] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:30:51,952] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 18:30:51,952] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:30:51,952] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 18:33:02,979] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:33:02,979] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 18:33:02,979] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:33:02,979] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals20150506063302979.zip
+[2015-05-06 18:33:02,979] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:33:02,979] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 18:33:02,979] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:33:02,979] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 18:33:02,979] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:33:02,979] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 18:33:02,979] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:33:02,994] INFO  com.gt.core.MultipleInit  - File failed to move
+[2015-05-06 18:35:17,595] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:35:17,595] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 18:35:17,595] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:35:17,595] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060635175950.zip
+[2015-05-06 18:35:17,595] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:35:17,595] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 18:35:17,595] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:35:17,610] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060635175951.zip
+[2015-05-06 18:35:17,610] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:35:17,610] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 18:35:17,610] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:35:17,610] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060635176102.zip
+[2015-05-06 18:35:43,174] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:35:43,174] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 18:35:43,174] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:35:43,174] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060635431740.zip
+[2015-05-06 18:35:43,174] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:35:43,174] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 18:35:43,174] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:35:43,174] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060635431741.zip
+[2015-05-06 18:35:43,174] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:35:43,189] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 18:35:43,189] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:35:43,189] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060635431892.zip
+[2015-05-06 18:37:16,408] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:37:16,408] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150406.csv
+[2015-05-06 18:37:16,424] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:37:16,424] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060637164240.zip
+[2015-05-06 18:37:16,424] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:37:16,424] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150407.csv
+[2015-05-06 18:37:16,424] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:37:16,424] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060637164241.zip
+[2015-05-06 18:37:16,424] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:37:16,424] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150415.csv
+[2015-05-06 18:37:16,440] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:37:16,440] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060637164402.zip
+[2015-05-06 18:37:48,738] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:37:48,738] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 18:37:48,753] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:37:48,753] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060637487530.zip
+[2015-05-06 18:37:48,753] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:37:48,753] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 18:37:48,753] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:37:48,753] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060637487531.zip
+[2015-05-06 18:37:48,753] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:37:48,753] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 18:37:48,753] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:37:48,753] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060637487532.zip
+[2015-05-06 18:59:51,798] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:59:51,798] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 18:59:51,798] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:59:51,798] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-06 18:59:55,761] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-06 18:59:55,793] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-06 18:59:56,339] INFO  com.gt.core.MultipleInit  - The server sent HTTP status code 401: Unauthorized
+[2015-05-06 18:59:56,339] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:59:56,339] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 18:59:56,355] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:59:56,355] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-06 18:59:57,868] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-06 18:59:57,868] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-06 18:59:58,165] INFO  com.gt.core.MultipleInit  - The server sent HTTP status code 401: Unauthorized
+[2015-05-06 18:59:58,165] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 18:59:58,165] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 18:59:58,181] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 18:59:58,181] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-06 19:00:00,429] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-06 19:00:00,429] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-06 19:00:00,867] INFO  com.gt.core.MultipleInit  - The server sent HTTP status code 401: Unauthorized
+[2015-05-06 19:37:02,639] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 19:37:02,639] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CAATH_RV150429.csv
+[2015-05-06 19:37:02,639] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 19:37:02,639] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-06 19:37:06,319] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-06 19:37:06,319] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-06 19:37:10,799] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-06 19:37:12,270] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 38451
+[2015-05-06 19:37:12,270] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38451
+[2015-05-06 19:37:13,132] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 19:37:13,132] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38451 Wait time = 60000
+[2015-05-06 19:38:15,205] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 19:38:15,205] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 19:38:15,205] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 19:38:15,878] INFO  com.gt.service.FusionServiceStub  - Job code : 38451 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@11da57d]
+[2015-05-06 19:38:15,878] INFO  com.gt.service.FusionServiceStub  - 
+file name:38451.zip
+content typezip
+[2015-05-06 19:38:15,878] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-06 19:38:15,878] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =38451.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-06 19:38:15,956] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-06 19:38:15,956] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 38451 execution status is SUCCEEDED, details and log files attached
+[2015-05-06 19:38:15,956] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-06 19:38:15,956] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 38451 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 38451.zip 
+ Title = Current Journals  Import
+[2015-05-06 19:38:15,956] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-06 19:38:17,060] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-06 19:38:17,060] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-06 19:38:17,075] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 19:38:17,075] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 19:38:21,264] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 38454
+[2015-05-06 19:38:21,264] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38454
+[2015-05-06 19:38:22,046] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 19:38:22,046] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38454 Wait time = 60000
+[2015-05-06 19:39:29,425] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 19:39:29,425] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 19:39:29,425] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 19:39:30,511] INFO  com.gt.service.FusionServiceStub  - Job code : 38454 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@f74c30]
+[2015-05-06 19:39:30,511] INFO  com.gt.service.FusionServiceStub  - 
+file name:38454.zip
+content typezip
+[2015-05-06 19:39:30,558] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060739305580.zip
+[2015-05-06 19:39:30,558] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 19:39:30,558] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 19:39:30,558] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 19:39:30,558] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-06 19:39:31,636] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-06 19:39:31,636] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-06 19:39:36,121] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-06 19:39:37,408] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 38455
+[2015-05-06 19:39:37,408] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38455
+[2015-05-06 19:39:37,987] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 19:39:37,987] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38455 Wait time = 60000
+[2015-05-06 19:40:40,844] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 19:40:40,844] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 19:40:40,844] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 19:40:41,696] INFO  com.gt.service.FusionServiceStub  - Job code : 38455 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@b27cdc]
+[2015-05-06 19:40:41,696] INFO  com.gt.service.FusionServiceStub  - 
+file name:38455.zip
+content typezip
+[2015-05-06 19:40:41,696] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-06 19:40:41,696] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =38455.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-06 19:40:41,712] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-06 19:40:41,712] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 38455 execution status is SUCCEEDED, details and log files attached
+[2015-05-06 19:40:41,712] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-06 19:40:41,712] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 38455 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 38455.zip 
+ Title = Current Journals  Import
+[2015-05-06 19:40:41,712] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-06 19:40:42,589] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-06 19:40:42,589] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-06 19:40:42,589] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 19:40:42,589] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 19:40:43,592] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 38458
+[2015-05-06 19:40:43,592] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38458
+[2015-05-06 19:40:44,395] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 19:40:44,395] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38458 Wait time = 60000
+[2015-05-06 19:41:47,528] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 19:41:47,528] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 19:41:47,528] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 19:41:49,311] INFO  com.gt.service.FusionServiceStub  - Job code : 38458 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@172b013]
+[2015-05-06 19:41:49,311] INFO  com.gt.service.FusionServiceStub  - 
+file name:38458.zip
+content typezip
+[2015-05-06 19:41:49,311] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060741493111.zip
+[2015-05-06 19:41:49,311] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 19:41:49,311] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 19:41:49,311] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 19:41:49,311] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-06 19:41:50,570] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-06 19:41:50,570] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-06 19:41:54,459] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-06 19:41:55,806] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 38460
+[2015-05-06 19:41:55,806] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38460
+[2015-05-06 19:41:56,980] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 19:41:56,980] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38460 Wait time = 60000
+[2015-05-06 19:42:57,887] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 19:42:57,887] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 19:42:57,887] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 19:42:59,003] INFO  com.gt.service.FusionServiceStub  - Job code : 38460 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@4f2bd2]
+[2015-05-06 19:42:59,003] INFO  com.gt.service.FusionServiceStub  - 
+file name:38460.zip
+content typezip
+[2015-05-06 19:42:59,003] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-06 19:42:59,003] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =38460.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-06 19:42:59,003] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-06 19:42:59,003] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 38460 execution status is SUCCEEDED, details and log files attached
+[2015-05-06 19:42:59,003] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-06 19:42:59,019] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 38460 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 38460.zip 
+ Title = Current Journals  Import
+[2015-05-06 19:42:59,019] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-06 19:42:59,998] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-06 19:42:59,998] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-06 19:42:59,998] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 19:42:59,998] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 19:43:01,096] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 38463
+[2015-05-06 19:43:01,097] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38463
+[2015-05-06 19:43:02,304] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 19:43:02,304] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38463 Wait time = 60000
+[2015-05-06 19:44:03,378] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 19:44:03,378] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 19:44:03,378] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 19:44:05,295] INFO  com.gt.service.FusionServiceStub  - Job code : 38463 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1ef8eb7]
+[2015-05-06 19:44:05,295] INFO  com.gt.service.FusionServiceStub  - 
+file name:38463.zip
+content typezip
+[2015-05-06 19:44:05,295] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060744052952.zip
+[2015-05-06 20:19:24,739] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:19:24,741] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\COMTH_RV150429.csv
+[2015-05-06 20:19:24,746] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:19:24,749] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-06 20:19:27,848] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-06 20:19:27,855] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-06 20:19:35,629] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-06 20:19:39,463] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 38468
+[2015-05-06 20:19:39,463] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38468
+[2015-05-06 20:19:40,876] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: READY
+[2015-05-06 20:19:40,876] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38468 Wait time = 60000
+[2015-05-06 20:20:42,226] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 20:20:42,226] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 20:20:42,226] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 20:20:43,093] INFO  com.gt.service.FusionServiceStub  - Job code : 38468 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@11da57d]
+[2015-05-06 20:20:43,093] INFO  com.gt.service.FusionServiceStub  - 
+file name:38468.zip
+content typezip
+[2015-05-06 20:20:43,093] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-06 20:20:43,093] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =38468.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-06 20:20:43,110] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-06 20:20:43,110] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 38468 execution status is SUCCEEDED, details and log files attached
+[2015-05-06 20:20:43,110] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-06 20:20:43,111] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 38468 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 38468.zip 
+ Title = Current Journals  Import
+[2015-05-06 20:20:43,111] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-06 20:20:44,092] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-06 20:20:44,093] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-06 20:20:44,094] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:20:44,094] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:20:46,516] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 38471
+[2015-05-06 20:20:46,516] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38471
+[2015-05-06 20:20:47,081] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 20:20:47,081] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38471 Wait time = 60000
+[2015-05-06 20:21:50,471] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 20:21:50,471] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 20:21:50,471] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 20:21:51,327] INFO  com.gt.service.FusionServiceStub  - Job code : 38471 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@f74c30]
+[2015-05-06 20:21:51,327] INFO  com.gt.service.FusionServiceStub  - 
+file name:38471.zip
+content typezip
+[2015-05-06 20:21:51,336] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060821513350.zip
+[2015-05-06 20:21:51,337] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:21:51,338] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 20:21:51,343] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:21:51,343] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-06 20:21:52,719] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-06 20:21:52,720] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-06 20:21:56,923] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-06 20:21:58,257] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 38472
+[2015-05-06 20:21:58,257] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38472
+[2015-05-06 20:21:59,274] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 20:21:59,274] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38472 Wait time = 60000
+[2015-05-06 20:23:00,863] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 20:23:00,864] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 20:23:00,864] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 20:23:01,724] INFO  com.gt.service.FusionServiceStub  - Job code : 38472 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@b27cdc]
+[2015-05-06 20:23:01,724] INFO  com.gt.service.FusionServiceStub  - 
+file name:38472.zip
+content typezip
+[2015-05-06 20:23:01,724] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-06 20:23:01,724] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =38472.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-06 20:23:01,725] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-06 20:23:01,726] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 38472 execution status is SUCCEEDED, details and log files attached
+[2015-05-06 20:23:01,726] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-06 20:23:01,726] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 38472 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 38472.zip 
+ Title = Current Journals  Import
+[2015-05-06 20:23:01,726] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-06 20:23:02,659] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-06 20:23:02,659] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-06 20:23:02,659] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:23:02,660] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:23:04,083] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 38475
+[2015-05-06 20:23:04,083] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38475
+[2015-05-06 20:23:05,363] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 20:23:05,364] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38475 Wait time = 60000
+[2015-05-06 20:24:07,067] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 20:24:07,067] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 20:24:07,067] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 20:24:08,813] INFO  com.gt.service.FusionServiceStub  - Job code : 38475 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@172b013]
+[2015-05-06 20:24:08,813] INFO  com.gt.service.FusionServiceStub  - 
+file name:38475.zip
+content typezip
+[2015-05-06 20:24:08,816] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060824088151.zip
+[2015-05-06 20:31:59,770] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:31:59,772] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 20:31:59,776] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:31:59,777] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:33:05,248] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:33:05,250] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150506.csv
+[2015-05-06 20:33:05,254] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:33:05,255] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:33:05,255] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:33:05,256] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 20:33:05,259] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:33:05,259] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:34:44,157] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:34:44,159] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150506.csv
+[2015-05-06 20:34:44,163] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:34:44,164] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:34:44,164] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:34:44,165] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 20:34:44,167] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:34:44,168] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:36:07,525] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:36:07,527] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150506.csv
+[2015-05-06 20:36:07,532] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:36:07,533] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:36:07,533] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:36:07,534] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 20:36:07,537] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:36:07,537] INFO  com.gt.util.ReadCSV  - Failed to Read CSV File,CSV File not found 
+[2015-05-06 20:36:40,136] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:36:40,138] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150506.csv
+[2015-05-06 20:36:40,142] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:36:40,146] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:36:40,147] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 20:36:40,149] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:40:48,997] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:40:48,999] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CurrentJournals20150506.csv
+[2015-05-06 20:40:49,003] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:40:49,006] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-06 20:40:52,185] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-06 20:40:52,192] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-06 20:40:57,164] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-06 20:40:58,990] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 38477
+[2015-05-06 20:40:58,990] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38477
+[2015-05-06 20:40:59,543] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 20:40:59,543] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38477 Wait time = 60000
+[2015-05-06 20:42:00,644] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 20:42:00,645] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 20:42:00,645] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 20:42:01,300] INFO  com.gt.service.FusionServiceStub  - Job code : 38477 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@467116]
+[2015-05-06 20:42:01,300] INFO  com.gt.service.FusionServiceStub  - 
+file name:38477.zip
+content typezip
+[2015-05-06 20:42:01,300] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-06 20:42:01,300] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =38477.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-06 20:42:01,316] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-06 20:42:01,316] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 38477 execution status is SUCCEEDED, details and log files attached
+[2015-05-06 20:42:01,316] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-06 20:42:01,317] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 38477 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 38477.zip 
+ Title = Current Journals  Import
+[2015-05-06 20:42:01,317] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-06 20:42:02,404] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-06 20:42:02,404] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-06 20:42:03,341] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 38480
+[2015-05-06 20:42:03,342] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38480
+[2015-05-06 20:42:03,940] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 20:42:03,940] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38480 Wait time = 60000
+[2015-05-06 20:43:05,095] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 20:43:05,095] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 20:43:05,095] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 20:43:06,226] INFO  com.gt.service.FusionServiceStub  - Job code : 38480 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@64f218]
+[2015-05-06 20:43:06,227] INFO  com.gt.service.FusionServiceStub  - 
+file name:38480.zip
+content typezip
+[2015-05-06 20:43:06,236] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060843062340.zip
+[2015-05-06 20:43:06,237] INFO  com.gt.util.ConstructZipFile  - Start constructing zip file 
+[2015-05-06 20:43:06,237] INFO  com.gt.util.ConstructZipFile  - CSV FILE NAME: D:\importjournals\temp\inprocess\CVRTH_RV150429.csv
+[2015-05-06 20:43:06,242] INFO  com.gt.util.ConstructZipFile  - Completed constructing zip file 
+[2015-05-06 20:43:06,242] INFO  com.gt.service.FusionServiceStub  - in setFinancialUtilService()
+[2015-05-06 20:43:07,529] INFO  com.gt.service.FusionServiceStub  - in invokeUcmUpload() 
+[2015-05-06 20:43:07,529] INFO  com.gt.service.FusionServiceStub  - call to financialUtilService.uploadFileToUcm(document) 
+[2015-05-06 20:43:11,299] INFO  com.gt.service.FusionServiceStub  - Invoking EssJobForInterfaceLoader : Webservice call
+[2015-05-06 20:43:12,632] INFO  com.gt.service.FusionServiceStub  -  EssJobForInterfaceLoader job submitted >> ESS Job Code: 38481
+[2015-05-06 20:43:12,633] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38481
+[2015-05-06 20:43:13,261] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 20:43:13,261] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38481 Wait time = 60000
+[2015-05-06 20:44:14,855] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 20:44:14,856] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 20:44:14,856] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 20:44:16,546] INFO  com.gt.service.FusionServiceStub  - Job code : 38481 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@421cc4]
+[2015-05-06 20:44:16,547] INFO  com.gt.service.FusionServiceStub  - 
+file name:38481.zip
+content typezip
+[2015-05-06 20:44:16,547] INFO  com.gt.service.FusionServiceStub  - Attaching To Email >> Downloaded Document details
+[2015-05-06 20:44:16,547] DEBUG com.gt.service.FusionServiceStub  - 
+contentType = zip
+documentName =38481.zip
+fileName =null
+title =Current Journals  Import
+
+[2015-05-06 20:44:16,548] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job $requestId execution status is $essStatus, details and log files attached
+[2015-05-06 20:44:16,548] DEBUG com.gt.service.FusionServiceStub  - Replaced Subject = Interface Loader (Import Journals - Part 1) : Job 38481 execution status is SUCCEEDED, details and log files attached
+[2015-05-06 20:44:16,548] DEBUG com.gt.service.FusionServiceStub  - Raw Message = Interface Loader (Import Journals - Part 1) Job with request Id $requestId has been completed with status $essStatus, attached here are log files 
+ Content Type = $contentType 
+ DocumentName = $documentName 
+ Title = $title
+[2015-05-06 20:44:16,549] INFO  com.gt.service.FusionServiceStub  - Replaced Message = Interface Loader (Import Journals - Part 1) Job with request Id 38481 has been completed with status SUCCEEDED, attached here are log files 
+ Content Type = zip 
+ DocumentName = 38481.zip 
+ Title = Current Journals  Import
+[2015-05-06 20:44:16,549] INFO  com.gt.util.MailSender  - in sendEmail()
+[2015-05-06 20:44:17,513] INFO  com.gt.util.MailSender  - Mail sent successfully!
+[2015-05-06 20:44:17,513] INFO  com.gt.service.FusionServiceStub  - Invoking invokeEssJobForImportJournals : Webservice call
+[2015-05-06 20:44:18,624] INFO  com.gt.service.FusionServiceStub  -  invokeEssJobForImportJournals job submitted >> ESS Job Code: 38484
+[2015-05-06 20:44:18,624] INFO  com.gt.service.FusionServiceStub  - Checking for Status of ESS Job Code: 38484
+[2015-05-06 20:44:19,232] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: WAIT
+[2015-05-06 20:44:19,232] INFO  com.gt.service.FusionServiceStub  - Waiting before next check of ESS Job Status >> Job Code: 38484 Wait time = 60000
+[2015-05-06 20:45:20,347] INFO  com.gt.service.FusionServiceStub  - Received  ESS Job Status: SUCCEEDED
+[2015-05-06 20:45:20,347] INFO  com.gt.service.FusionServiceStub  -  Checking ESSJobStatus is any of Succeeded or Error or Warning : Returned status = SUCCEEDED
+[2015-05-06 20:45:20,347] INFO  com.gt.service.FusionServiceStub  - Downloading JobExecutionDetails : WebService call 
+[2015-05-06 20:45:21,324] INFO  com.gt.service.FusionServiceStub  - Job code : 38484 List = [com.oracle.xmlns.apps.financials.commonmodules.shared.financialutilservice.DocumentDetails@1205dbd]
+[2015-05-06 20:45:21,324] INFO  com.gt.service.FusionServiceStub  - 
+file name:38484.zip
+content typezip
+[2015-05-06 20:45:21,328] INFO  com.gt.core.MultipleInit  - File moved to archives successfullyD:/importjournals/archives/CurrentJournals201505060845213271.zip
